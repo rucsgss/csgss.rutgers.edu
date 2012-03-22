@@ -2,31 +2,31 @@
  * General             *
  **********************/
 body {
-	font-family: "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, sans-serif;
-	font-style: normal;
-	font-weight: normal;
-	text-decoration: none;
-	text-align: center;
-	font-size: small;
-	margin: 0 auto;
-	padding: 0;
-	width: 60em;
-	background: #fff none repeat scroll 0 0;
+    font-family: "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-align: center;
+    font-size: small;
+    margin: 0 auto;
+    padding: 0;
+    width: 60em;
+    background: #fff none repeat scroll 0 0;
 }
 
 h1 {
-	font-size: x-large;
-	font-weight: bold;
+    font-size: x-large;
+    font-weight: bold;
 }
 
 h2 {
-	font-size: large;
-	font-weight: bold;
+    font-size: large;
+    font-weight: bold;
 }
 
 h3 {
-	font-size: large;
-	font-weight: normal;
+    font-size: large;
+    font-weight: normal;
 }
 
 /***********************
@@ -34,36 +34,36 @@ h3 {
  **********************/
 
 div.navigation_bar {
-	font-size: 80%;
-	margin: 0 auto;
+    font-size: 80%;
+    margin: 0 auto;
 }
 
 div.navigation_bar ul {
-	list-style-type: disc;
+    list-style-type: disc;
 }
 
 div.navigation_bar li {
-	display: inline;
+    display: inline;
 }
 
 div.navigation_bar li a {
-	border-right: 1px solid #D1D1D1;
-	padding: 4px 12px;
-	text-decoration: none;
-	background: #c0c0c0 none repeat scroll 0 0;
-	color: white;
+    border-right: 1px solid #D1D1D1;
+    padding: 4px 12px;
+    text-decoration: none;
+    background: #c0c0c0 none repeat scroll 0 0;
+    color: white;
 }
 
 div.navigation_bar li a:hover,
 div.navigation_bar li.current_page{
-	background: black none repeat scroll 0 0;
-	padding: 4px 12px;
-	color: white;
+    background: black none repeat scroll 0 0;
+    padding: 4px 12px;
+    color: white;
 }
 
 
 div.navigation_bar li a:visited {
-	color: white;
+    color: white;
 }
 
 
@@ -71,36 +71,36 @@ div.navigation_bar li a:visited {
  * Page Content        *
  **********************/
 div.page_content {
-	border: 1px solid #000;
-	margin: 0;
-	padding: 0;
-	background: #e0e0e0 none repeat scroll 0 0;
-	text-align: center;
+    border: 1px solid #000;
+    margin: 0;
+    padding: 0;
+    background: #e0e0e0 none repeat scroll 0 0;
+    text-align: center;
 }
 
 /***********************
  * Main Content        *
  **********************/
 div.main_content {
-	text-align: left;
+    text-align: left;
 }
 
 div.main_content h2 {
-	text-align: center;
+    text-align: center;
 }
 
 /***********************
  * Events Page         *
  **********************/
 span.event_date {
-	font-weight: bold;
+    font-weight: bold;
 }
 
 table.photos {
-	border-collapse: collapse;
-}	
+    border-collapse: collapse;
+}
 
 table.photos td {
-	text-align: center;
-	padding: 10px 10px;
+    text-align: center;
+    padding: 10px 10px;
 }
