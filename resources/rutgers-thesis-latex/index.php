@@ -23,6 +23,7 @@ pdflatex thesis</code></pre>
           <li><a href="ruthesis.cls">ruthesis.cls</a> &mdash; a LaTeX style file for your thesis.</li>
         </ul>
       </div>
+      <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/footer.html") ?>
     </div>
   </body>
 </html>

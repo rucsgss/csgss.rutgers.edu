@@ -14,11 +14,11 @@
         <p>The 1988-89 Executive Board of the Computer Science Graduate Student Society (CSGSS) voted to establish an annual award for excellence in teaching. Every year the award is presented to a Rutgers DCS faculty member, based upon a plurality vote of the members of CSGSS.</p>
         <p>Members of CSGSS are encouraged to vote for the faculty teacher who best developed their students' insight and enthusiasm for the subject they taught. The person you vote for need not currently be an instructor, but should currently be a member of the DCS faculty who has taught a CS graduate course within the current academic year.</p>
 
-        <h2>Former Recipients</h2>
+        <h2>Recipients</h2>
         <ul>
-          <li>Academic Year 2011 &mdash; 2012: </li>
+          <li>Academic Year 2011 &mdash; 2012: Martin Farach-Colton</li>
           <li>Academic Year 2010 &mdash; 2011: </li>
-          <li>Academic Year 2009 &mdash; 2010: </li>
+          <li>Academic Year 2009 &mdash; 2010: Badri Nath</li>
           <li>Academic Year 2008 &mdash; 2009: </li>
           <li>Academic Year 2007 &mdash; 2008: William Steiger</li>
           <li>Academic Year 2006 &mdash; 2007: Joseph Kilian</li>
@@ -33,6 +33,7 @@
         <h1>Kitchen</h1>
         <p>The third floor lobby of the CoRE building contains a kitchen for use by all DCS faculty, staff, and students. The kitchen has food and drinks for sale at low prices and is run by members of CSGSS on a volunteer basis. If you have any questions or suggestions, or if you'd like to help out, please contact the current CSGSS president.</p>
       </div>
+      <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/footer.html") ?>
     </div>
   </body>
 </html>

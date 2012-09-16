@@ -70,6 +70,7 @@
           </div>
         </div>
       </div>
+      <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/footer.html") ?>
     </div>
   </body>
 </html>
