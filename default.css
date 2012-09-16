@@ -94,6 +94,10 @@ div.navigation_bar li a:visited {
     color: white;
 }
 
+div.navigation_bar li.selected a {
+    color: black;
+}
+
 div.navigation_bar li a:hover,
 div.navigation_bar li.current_page {
     color: black;
