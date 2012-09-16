@@ -1,0 +1,7 @@
+*.sh
+.git
+.gitignore
+Makefile
+default.css
+file-excludes.txt
+images-source

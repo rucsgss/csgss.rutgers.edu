@@ -1,6 +1,7 @@
 /***********************
  * General             *
  **********************/
+
 body {
     font-family: "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, sans-serif;
     font-style: normal;
@@ -10,8 +11,9 @@ body {
     font-size: small;
     margin: 0 auto;
     padding: 30;
-    width: 60em;
+    width: 1024px;
     background: #fff none repeat scroll 0 0;
+    padding-top: 10px;
 }
 
 h1 {
@@ -30,57 +32,102 @@ h3 {
 }
 
 /***********************
+ * Header              *
+ **********************/
+
+div.header {
+    position: relative;
+    width: 1009px;
+    margin: 0 auto;
+}
+
+div.header img {
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+div.header p {
+    position: absolute;
+    top: 25px;
+    right: 20px;
+    color: white;
+    font-size: 1.5em;
+}
+
+/***********************
  * Navigation Bar      *
  **********************/
 
 div.navigation_bar {
-    font-size: 80%;
-    margin: 0 auto;
+    font-size: 1.3em;
+    margin: 5 auto;
+    position: relative;
+    top: -15px;
+    width: 980px;
+    background: #d2082f; /* Old browsers */
+    background: -moz-linear-gradient(top,  #d2082f 0%, #d90b33 50%, #d90b33 51%, #9d0c26 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#d2082f), color-stop(50%,#d90b33), color-stop(51%,#d90b33), color-stop(100%,#9d0c26)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #d2082f 0%,#d90b33 50%,#d90b33 51%,#9d0c26 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #d2082f 0%,#d90b33 50%,#d90b33 51%,#9d0c26 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #d2082f 0%,#d90b33 50%,#d90b33 51%,#9d0c26 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #d2082f 0%,#d90b33 50%,#d90b33 51%,#9d0c26 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2082f', endColorstr='#9d0c26',GradientType=0 ); /* IE6-9 */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 30px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
 }
 
 div.navigation_bar ul {
-    list-style-type: disc;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
 }
 
 div.navigation_bar li {
-    display: inline;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 30px;
 }
 
 div.navigation_bar li a {
-    border-right: 1px solid #D1D1D1;
+    display: block;
     padding: 4px 12px;
     text-decoration: none;
-    background: #c0c0c0 none repeat scroll 0 0;
     color: white;
 }
-
-div.navigation_bar li a:hover,
-div.navigation_bar li.current_page{
-    background: black none repeat scroll 0 0;
-    padding: 4px 12px;
-    color: white;
-}
-
 
 div.navigation_bar li a:visited {
     color: white;
 }
 
+div.navigation_bar li a:hover,
+div.navigation_bar li.current_page {
+    padding: 4px 12px;
+    color: black;
+}
 
 /***********************
  * Page Content        *
  **********************/
+
 div.page_content {
     border: 1px solid #000;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     background: #e0e0e0 none repeat scroll 0 0;
     text-align: center;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    width: 980px;
 }
 
 /***********************
  * Main Content        *
  **********************/
+
 div.main_content {
     text-align: left;
 }
@@ -92,6 +139,7 @@ div.main_content h2 {
 /***********************
  * Events Page         *
  **********************/
+
 span.event_date {
     font-weight: bold;
 }
@@ -103,4 +151,34 @@ table.photos {
 table.photos td {
     text-align: center;
     padding: 10px 10px;
+}
+
+/***********************
+ * Officers Page       *
+ **********************/
+
+div.officers ul {
+    list-style-type: none;
+}
+
+div.officers li {
+    padding: 10px;
+    margin: 10px;
+    height: 100px;
+    line-height: 100px;
+    text-align: left;
+}
+
+div.officers img {
+    height: 96px;
+    width: 96px;
+    vertical-align: middle;
+    background: #d1d1d1;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+div.officers p {
+    margin-left: 10px;
+    display: inline;
 }
