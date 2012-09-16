@@ -7,9 +7,9 @@
     <div class="container">
       <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/header.html") ?>
       <div class="page_content">
-        <h1>News</h1>
-        <p>Welcome back for Fall 2012!</p>
+        <p>You should upload your files to <code>~/public_html</code> on one of <a href="http://www.cs.rutgers.edu/resources/systems/graduate/machines.whtml">these servers</a>.</p>
       </div>
     </div>
   </body>
 </html>
+
