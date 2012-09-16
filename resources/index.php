@@ -9,11 +9,7 @@
       <div class="page_content">
         <div class="resources">
           <ul>
-            <li><a href="getting-started/">New to Rutgers? Start here!</a></li>
-            <li><a href="department-facilities/">An overview of department facilities</a></li>
-            <li><a href="create-your-webpage/">Create your department webpage</a></li>
-            <li><a href="track-events/">Add department events to your calendar</a></li>
-            <li><a href="rutgers-thesis-latex/">Writing your dissertation in LaTeX</a></li>
+            <li><a href="rutgers-thesis-latex/">Writing your thesis in LaTeX</a></li>
           </ul>
         </div>
       </div>
