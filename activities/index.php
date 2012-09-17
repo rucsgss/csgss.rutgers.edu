@@ -17,9 +17,8 @@
         <h2>Recipients</h2>
         <ul>
           <li>Academic Year 2011 &mdash; 2012: Martin Farach-Colton</li>
-          <li>Academic Year 2010 &mdash; 2011: </li>
           <li>Academic Year 2009 &mdash; 2010: Badri Nath</li>
-          <li>Academic Year 2008 &mdash; 2009: </li>
+          <li>Academic Year 2008 &mdash; 2009: Muthu Muthukrishnan</li>
           <li>Academic Year 2007 &mdash; 2008: William Steiger</li>
           <li>Academic Year 2006 &mdash; 2007: Joseph Kilian</li>
           <li>Academic Year 2004 &mdash; 2005: William Steiger</li>
