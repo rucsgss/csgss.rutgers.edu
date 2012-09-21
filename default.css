@@ -238,18 +238,42 @@ div.resources li {
     padding-bottom: 20px;
 }
 
-div.resources img {
-    height: 96px;
-    width: 96px;
-    vertical-align: middle;
-    background: #d1d1d1;
-    -moz-border-radius: 10px;
-    border-radius: 10px;
+div.resources {
+    margin: 0;
+    padding: 0;
+    width: 940px;
 }
 
-div.resources p {
-    margin-left: 10px;
-    display: inline;
+p.heading {
+    padding: 3px 10px;
+    cursor: pointer;
+    position: relative;
+    font-size:1.2em;
+}
+
+div.content {
+    padding: 5px 10px;
+    margin-left: 40px;
+}
+
+div.arrow {
+    width: 18px;
+    height: 18px;
+    background-image: url(/images/triangle-right.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    float: left;
+    margin-right: 10px;
+}
+
+div.expanded {
+    width: 18px;
+    height: 18px;
+    background-image: url(/images/triangle-down.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    float: left;
+    margin-right: 10px;
 }
 
 /***********************
