@@ -9,6 +9,7 @@
       <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/header.html") ?>
       <div class="page_content">
         <div class="resources">
+          <h1>Resources</h1>
           <div><div class="arrow"></div><p class="heading">Add department events to your calendar</p></div>
           <div class="content">
             <p>If you use <a href="http://www.google.com/calendar">Google Calendar</a>, go to "Other calendars" &rarr; "Add a friend's calendar", and enter "rutgers.cs@gmail.com" as the email address.</p>
