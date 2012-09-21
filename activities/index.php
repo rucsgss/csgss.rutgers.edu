@@ -16,17 +16,17 @@
 
         <h2>Recipients</h2>
         <ul>
-          <li>Academic Year 2011 &mdash; 2012: Martin Farach-Colton</li>
-          <li>Academic Year 2009 &mdash; 2010: Badri Nath</li>
-          <li>Academic Year 2008 &mdash; 2009: Muthu Muthukrishnan</li>
-          <li>Academic Year 2007 &mdash; 2008: William Steiger</li>
-          <li>Academic Year 2006 &mdash; 2007: Joseph Kilian</li>
-          <li>Academic Year 2004 &mdash; 2005: William Steiger</li>
-          <li>Academic Year 2003 &mdash; 2004: Michael L. Littman</li>
-          <li>Academic Year 2002 &mdash; 2003: Barbara G. Ryder</li>
-          <li>Academic Year 2001 &mdash; 2002: Thu D. Nguyen</li>
-          <li>Academic Year 2000 &mdash; 2001: Vasek Chvatal</li>
-          <li>Academic Year 1989 &mdash; 1990: Chris Tong</li>
+          <li>2011 &mdash; 2012: Martin Farach-Colton</li>
+          <li>2009 &mdash; 2010: Badri Nath</li>
+          <li>2008 &mdash; 2009: Muthu Muthukrishnan</li>
+          <li>2007 &mdash; 2008: William Steiger</li>
+          <li>2006 &mdash; 2007: Joseph Kilian</li>
+          <li>2004 &mdash; 2005: William Steiger</li>
+          <li>2003 &mdash; 2004: Michael L. Littman</li>
+          <li>2002 &mdash; 2003: Barbara G. Ryder</li>
+          <li>2001 &mdash; 2002: Thu D. Nguyen</li>
+          <li>2000 &mdash; 2001: Vasek Chvatal</li>
+          <li>1989 &mdash; 1990: Chris Tong</li>
         </ul>
 
         <h1>Kitchen</h1>
