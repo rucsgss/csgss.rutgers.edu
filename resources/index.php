@@ -9,6 +9,7 @@
       <div class="page_content">
         <div class="resources">
           <ul>
+            <li><a href="create-your-webpage/">Creating your department webpage</a></li>
             <li><a href="rutgers-thesis-latex/">Writing your thesis in LaTeX</a></li>
           </ul>
         </div>
