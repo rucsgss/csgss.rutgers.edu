@@ -7,6 +7,7 @@
     <div class="container">
       <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/header.html") ?>
       <div class="page_content">
+        <h1>About CSGSS</h1>
         <p>The Computer Science Graduate Student Society (CSGSS) is an organization of graduate students whose goals are:</p>
         <ul>
           <li>improving the quality of the graduate academic department;</li>
