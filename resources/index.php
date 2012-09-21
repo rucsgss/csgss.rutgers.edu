@@ -9,7 +9,12 @@
       <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/header.html") ?>
       <div class="page_content">
         <div class="resources">
-          <div><div class="arrow"></div><p class="heading">Creating your department webpage</p></div>
+          <div><div class="arrow"></div><p class="heading">Add department events to your calendar</p></div>
+          <div class="content">
+            <p>If you use <a href="http://www.google.com/calendar">Google Calendar</a>, go to "Other calendars" &rarr; "Add a friend's calendar", and enter "rutgers.cs@gmail.com" as the email address.</p>
+            <p>If you use Calendar.app on Mac OS X, go to "File" &rarr; "New Calendar Subscription", and enter "https://www.google.com/calendar/ical/rutgers.cs%40gmail.com/public/basic.ics" as the calendar address.</p>
+          </div>
+          <div><div class="arrow"></div><p class="heading">Create your department webpage</p></div>
           <div class="content">
             <p>Your disk space on the graduate domain can be used to host public web pages. Your public space will be located at http://paul.rutgers.edu/~dcs_username/, where "dcs_username" is your DCS username. If you prefer, you can also use http://www.cs.rutgers.edu/~dcs_username/, which is an alias for your webpage on paul.rutgers.edu.</p>
 
@@ -27,7 +32,7 @@ chmod 644 ~/public_html/index.html</code></pre></p>
 
             <p>Note that at present, no server-side scripting (PHP, etc.) is enabled.</p>
           </div>
-          <div><div class="arrow"></div><p class="heading">Writing your thesis in LaTeX</p></div>
+          <div><div class="arrow"></div><p class="heading">Write your thesis in LaTeX</p></div>
           <div class="content">
             <div class="thumbnail"><img src="/images/thesis.png" alt="Thesis title page" class="thumbnail"/></div>
             <div class="thumbnail-body">

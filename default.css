@@ -293,6 +293,15 @@ div.thumbnail {
     float: left;
 }
 
+iframe {
+    border: 0;
+    width: 600px;
+    height: 500px;
+    margin-left: 100px;
+    frameborder: 0;
+    scrolling: no;
+}
+
 div.thumbnail-body {
     margin-left: 230px;
 }
