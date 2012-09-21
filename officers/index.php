@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Rutgers CSGSS</title>
+    <title>CSGSS Officers</title>
     <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/head.html") ?>
   </head>
   <body>

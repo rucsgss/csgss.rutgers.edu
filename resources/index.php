@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Rutgers CSGSS</title>
+    <title>CSGSS Resources</title>
     <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/head.html") ?>
     <script src="/scripts/expand-collapse.js"></script>
   </head>
