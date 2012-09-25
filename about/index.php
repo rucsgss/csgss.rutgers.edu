@@ -1,3 +1,4 @@
+<!doctype html>
 <html>
   <head>
     <title>About CSGSS</title>
