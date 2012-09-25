@@ -47,6 +47,10 @@ div.header p {
     font-size: 2.2em;
 }
 
+div.header img {
+    display: block;
+}
+
 /***********************
  * Footer              *
  **********************/
