@@ -34,6 +34,10 @@ chmod 644 ~/public_html/index.html</code></pre>
 
             <p>Note that at present, no server-side scripting (PHP, etc.) is enabled.</p>
           </div>
+          <div><div class="arrow"></div><p class="heading">Get Rutgers business cards</p></div>
+          <div class="content">
+            <p>Contact <a href="mailto:granholm@rci.rutgers.edu">Georgene Granholm</a> for information on how to order official business cards.</p>
+          </div>
           <div><div class="arrow"></div><p class="heading">Write your thesis in LaTeX</p></div>
           <div class="content">
             <div class="thumbnail"><img src="/images/thesis.png" alt="Thesis title page" class="thumbnail"/></div>
