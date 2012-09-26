@@ -18,7 +18,7 @@
               </li>
               <li>
                 <p><strong>Vice President:</strong> <a href="mailto:@cs.rutgers.edu"></a><br/><br/></p>
-                <p>The vice president shares the workload of the president and possibly inherits it in the case of presidential absence. The vice presidents is responsible for keeping a watchful eye over all of the activities of the various committees.</p>
+                <p>The vice president shares the workload of the president and possibly inherits it in the case of presidential absence. The vice president is responsible for keeping a watchful eye over all of the activities of the various committees.</p>
               </li>
               <li>
                 <p><strong>Secretary:</strong> <a href="mailto:@cs.rutgers.edu"></a><br/><br/></p>
