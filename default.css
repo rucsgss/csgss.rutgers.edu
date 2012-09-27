@@ -57,7 +57,7 @@ div.header img {
 
 div.footer {
     width: 980px;
-    height: 50px;
+    height: 100px;
 }
 
 /***********************
@@ -167,6 +167,10 @@ div.news h3 {
     font-size: 1em;
     color: #555;
     margin: 0px;
+}
+
+div.news .clear {
+    clear: both;
 }
 
 /***********************
@@ -285,15 +289,12 @@ div.expanded {
  **********************/
 
 img.thumbnail {
-    width: 200px;
-    height: 200px;
     border: 1px solid black;
     box-shadow: 3px 3px 4px #000;
+    margin-right: 20px;
 }
 
 div.thumbnail {
-    width: 200px;
-    height: 200px;
     float: left;
 }
 
@@ -304,10 +305,6 @@ iframe {
     margin-left: 100px;
     frameborder: 0;
     scrolling: no;
-}
-
-div.thumbnail-body {
-    margin-left: 230px;
 }
 
 div.code {
