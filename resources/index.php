@@ -16,13 +16,11 @@
             <p>If you use <a href="http://www.google.com/calendar">Google Calendar</a>, go to "Other calendars" &rarr; "Add a friend's calendar", and enter "rutgers.cs@gmail.com" as the email address.</p>
             <p>If you use Calendar.app on Mac OS X, go to "File" &rarr; "New Calendar Subscription", and enter "https://www.google.com/calendar/ical/rutgers.cs%40gmail.com/public/basic.ics" as the calendar address.</p>
           </div>
-          <div><div class="arrow"></div><p class="heading">Advice on Graduate School</p></div>
+          <div><div class="arrow"></div><p class="heading">Advice on graduate school</p></div>
           <div class="content">
-            <ul>
-              <li><a href="https://sites.google.com/site/adviceforgraduatestudents/">Advice for Graduate Students</a></li>
-              <li><a href="http://www.csee.umbc.edu/~mariedj/papers/advice.pdf">How to Succeed in Graduate School</a></li>
-              <li><a href="http://grad.berkeley.edu/acapro/surviving_thriving.shtml">Surviving & Thriving in Graduate School</a></li>
-            </ul>
+            <p><a href="https://sites.google.com/site/adviceforgraduatestudents/">Advice for Graduate Students</a></p>
+            <p><a href="http://www.csee.umbc.edu/~mariedj/papers/advice.pdf">How to Succeed in Graduate School</a></p>
+            <p><a href="http://grad.berkeley.edu/acapro/surviving_thriving.shtml">Surviving & Thriving in Graduate School</a></p>
           </div>
           <div><div class="arrow"></div><p class="heading">Create your department webpage</p></div>
           <div class="content">
