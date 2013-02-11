@@ -11,6 +11,16 @@
         <h1>News from CSGSS</h1>
         <div class="news">
           <div class="newsitem">
+            <div class="thumbnail"><img src="/images/google-phd-mixer.png" height=299 width=400 alt="Google PhD mixer" class="thumbnail"/></div>
+            <div>
+              <h2>Google PhD Mixer</h2>
+              <h3>Feb 11, 2013</h3>
+              <p>RU PhD Googlers will discuss their research interests and work at Google as well as mingle with current PhD students</p>
+              <p>5 &ndash; 7 PM in CoRE A</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="newsitem">
             <div class="thumbnail"><img src="/images/fall2012.jpg" height=299 width=400 alt="Rutgers in fall" class="thumbnail"/></div>
             <div>
               <h2>Welcome back!</h2>
