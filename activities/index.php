@@ -9,7 +9,7 @@
       <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/header.html") ?>
       <div class="page_content">
         <h1>General Meetings (Social Lunches)</h1>
-        <p>Every semester, CSGSS tries to schedule a few lunch meetings where graduate students, faculty, and staff can get together and exchange ideas in a less-academic environment. These meetings are also where general votes are taken (such as to elect a new executive board), or general announcements are given from CSGSS, administration, or staff.</p>
+        <p>Every semester, CSGSS tries to schedule a few lunch meetings where graduate students, faculty, and staff can get together and exchange ideas in a less academic environment. These meetings are also where general votes are taken (such as to elect a new executive board), or general announcements are given from CSGSS, administration, or staff.</p>
 
         <h1>Award for Excellence in Teaching</h1>
         <p>The 1988-89 Executive Board of the Computer Science Graduate Student Society (CSGSS) voted to establish an annual award for excellence in teaching. Every year the award is presented to a Rutgers DCS faculty member, based upon a plurality vote of the members of CSGSS.</p>
@@ -31,7 +31,7 @@
         </ul>
 
         <h1>Kitchen</h1>
-        <p>The third floor lobby of the CoRE building contains a kitchen for use by all DCS faculty, staff, and students. The kitchen has food and drinks for sale at low prices and is run by members of CSGSS on a volunteer basis. If you have any questions or suggestions, or if you'd like to help out, please contact the current CSGSS president.</p>
+        <p>The third floor lobby of the CoRE building contains a kitchen for use by all DCS faculty, staff, and students. The kitchen has food and drinks available and is run by members of CSGSS on a volunteer basis. If you have any questions or suggestions, or if you'd like to help out, please contact the current CSGSS president.</p>
       </div>
       <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/footer.html") ?>
     </div>

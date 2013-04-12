@@ -32,6 +32,7 @@
           </div>
           <div class="previous-officers">
             <h1>Previous Officers</h1>
+
             <div class="year">
               <h2>2011 &mdash; 2012</h2>
               <ul>
@@ -41,6 +42,7 @@
                 <li>Treasurer: </li>
               </ul>
             </div>
+
             <div class="year">
               <h2>2010 &mdash; 2011</h2>
               <ul>
@@ -50,6 +52,7 @@
                 <li>Treasurer: </li>
               </ul>
             </div>
+
             <div class="year">
               <h2>2009 &mdash; 2010</h2>
               <ul>
@@ -59,6 +62,7 @@
                 <li>Treasurer: Tom Walsh</li>
               </ul>
             </div>
+
             <div class="year">
               <h2>2008 &mdash; 2009</h2>
               <ul>
