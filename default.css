@@ -107,12 +107,12 @@ div.navigation_bar li a:visited {
 }
 
 div.navigation_bar li.selected a {
-    color: #aaa;
+    color: black;
 }
 
 div.navigation_bar li a:hover,
 div.navigation_bar li.current_page {
-    color: black;
+    color: #aaa;
 }
 
 /***********************
