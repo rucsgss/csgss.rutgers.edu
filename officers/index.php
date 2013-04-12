@@ -72,6 +72,33 @@
                 <li>Treasurer: Brian Thompson</li>
               </ul>
             </div>
+
+            <!-- 2007 &mdash; 2008 -->
+            <!-- 2006 &mdash; 2007 -->
+
+            <div class="year">
+              <h2>2005 &mdash; 2006</h2>
+              <ul>
+                <li>President: Rohan Fernandes</li>
+                <li>Vice-President: Andre Madeira</li>
+                <li>Secretary: Brian Russell</li>
+                <li>Treasurer: Shu Chen</li>
+                <li>Webmaster: Tim Edmunds</li>
+                <li>CS_CAREERS: Nishkam Ravi</li>
+                <li>LCSR User Group Rep: Pravin Shankar</li>
+              </ul>
+            </div>
+
+            <div class="year">
+              <h2>2004 &mdash; 2005</h2>
+              <ul>
+                <li>President: Carlos Diuk</li>
+                <li>Vice President:</li>
+                <li>Secretary:</li>
+                <li>Treasurer:</li>
+              </ul>
+            </div>
+
           </div>
         </div>
       </div>
