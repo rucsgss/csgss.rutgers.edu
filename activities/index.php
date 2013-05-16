@@ -17,7 +17,7 @@
 
         <h2>Recipients</h2>
         <ul>
-          <li>2012 &mdash; 2013: TBA</li>
+          <li>2012 &mdash; 2013: Swastik Kopparty</li>
           <li>2011 &mdash; 2012: Martin Farach-Colton</li>
           <li>2009 &mdash; 2010: Badri Nath</li>
           <li>2008 &mdash; 2009: Muthu Muthukrishnan</li>
