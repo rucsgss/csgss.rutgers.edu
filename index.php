@@ -11,6 +11,17 @@
         <h1>News from CSGSS</h1>
         <div class="news">
 
+
+          <div class="newsitem">
+            <div>
+              <h2>End of Year Social</h2>
+              <h3>May 14, 2013</h3>
+              <p>To celebrate the conclusion of the academic year, CSGSS and the CS department are holding an end-of-semester social. There will be food (from Efe's) and drinks provided, thanks to a generous contribution from Google.</p>
+              <p>12:00 PM &ndash; 2:00 PM, in the CoRE lobby.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
           <div class="newsitem">
             <div>
               <h2>April CSGSS Social</h2>
@@ -41,7 +52,7 @@
               <h2>Google PhD Mixer</h2>
               <h3>Feb 11, 2013</h3>
               <p>RU PhD Googlers will discuss their research interests and work at Google as well as mingle with current PhD students</p>
-              <p>5 &ndash; 7 PM in CoRE A</p>
+              <p>5:00 PM &ndash; 7:00 PM in CoRE A</p>
             </div>
             <div class="clear"></div>
           </div>

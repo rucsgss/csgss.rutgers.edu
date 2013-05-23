@@ -17,18 +17,18 @@
 
         <h2>Recipients</h2>
         <ul>
-          <li>2012 &mdash; 2013: Swastik Kopparty</li>
-          <li>2011 &mdash; 2012: Martin Farach-Colton</li>
-          <li>2009 &mdash; 2010: Badri Nath</li>
-          <li>2008 &mdash; 2009: Muthu Muthukrishnan</li>
-          <li>2007 &mdash; 2008: William Steiger</li>
-          <li>2006 &mdash; 2007: Joseph Kilian</li>
-          <li>2004 &mdash; 2005: William Steiger</li>
-          <li>2003 &mdash; 2004: Michael L. Littman</li>
-          <li>2002 &mdash; 2003: Barbara G. Ryder</li>
-          <li>2001 &mdash; 2002: Thu D. Nguyen</li>
-          <li>2000 &mdash; 2001: Vasek Chvatal</li>
-          <li>1989 &mdash; 1990: Chris Tong</li>
+          <li>2012 &ndash; 2013: Swastik Kopparty</li>
+          <li>2011 &ndash; 2012: Martin Farach-Colton</li>
+          <li>2009 &ndash; 2010: Badri Nath</li>
+          <li>2008 &ndash; 2009: Muthu Muthukrishnan</li>
+          <li>2007 &ndash; 2008: William Steiger</li>
+          <li>2006 &ndash; 2007: Joseph Kilian</li>
+          <li>2004 &ndash; 2005: William Steiger</li>
+          <li>2003 &ndash; 2004: Michael L. Littman</li>
+          <li>2002 &ndash; 2003: Barbara G. Ryder</li>
+          <li>2001 &ndash; 2002: Thu D. Nguyen</li>
+          <li>2000 &ndash; 2001: Vasek Chvatal</li>
+          <li>1989 &ndash; 1990: Chris Tong</li>
         </ul>
 
         <h1>Kitchen</h1>

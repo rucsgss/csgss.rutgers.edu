@@ -203,6 +203,11 @@ div.current-officers {
     margin-top: 20px;
 }
 
+div.current-officers h2 {
+    font-size: 1.3em;
+    font-weight: normal;
+}
+
 div.current-officers li {
     height: 80px;
     padding-bottom: 20px;
