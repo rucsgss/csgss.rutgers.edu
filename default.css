@@ -159,6 +159,10 @@ div.news .newsitem {
     margin-bottom: 30px;
 }
 
+div.news .newsitem td {
+    min-width: 100px;
+}
+
 div.news h2 {
     margin-bottom: 5px;
 }
