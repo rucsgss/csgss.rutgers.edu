@@ -3,7 +3,7 @@
 set -e
 
 USERNAME="jca105"
-SERVER="pacman.rutgers.edu"
+SERVER="pacman.cs.rutgers.edu"
 SERVERPATH="~/csgss"
 
 if [ ! -f "./default-min.css" ]; then
