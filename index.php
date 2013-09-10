@@ -13,6 +13,18 @@
 
           <div class="newsitem">
             <div>
+              <h2>September CSGSS Social</h2>
+              <h3>Wed., Sept 11, 2013</h3>
+			  <p>Join your fellow CS graduate students for lunch and socializing. A great opportunity
+			    to get out of your lab or office and see how the rest of the department is doing.  Don't
+			    forget to bring your appetite!</p>
+			  <p>12:00 &ndash; 1:30 PM in CoRE A</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
+            <div>
               <h2>Fall CS Orientation</h2>
               <h3>Sept. 4, 2013</h3>
               <p>The fall CS orientation is an event to help introduce and acquaint new and existing graduate students and the faculty of the department. It highlights some of the research done in the department and allows an opportunity for new graduate students to solicit advice from more senior students. Please come out and meet your new colleagues!</p>
