@@ -13,6 +13,16 @@
 
           <div class="newsitem">
             <div>
+              <h2>Potluck Lunch</h2>
+              <h3>Sept. 26, 2013</h3>
+              <p>Bring a dish to share with your colleagues! We'll provide drinks. Please contact Brian McMahan to coordinate food items.</p>
+              <p>12:00 PM in CoRE 301</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
+            <div>
               <h2>September CSGSS Social</h2>
               <h3>Wed., Sept 11, 2013</h3>
 			  <p>Join your fellow CS graduate students for lunch and socializing. A great opportunity
