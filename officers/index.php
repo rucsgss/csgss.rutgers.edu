@@ -13,7 +13,7 @@
           <div class="current-officers">
             <ul>
               <li>
-                <h2>President: <a href="mailto:jeff.ames@cs.rutgers.edu">Jeff Ames</a></h2>
+                <h2>President: <a href="http://www.cs.rutgers.edu/~jca105/">Jeff Ames</a></h2>
                 <p>The president oversees the general operation of CSGSS and is the one to contact about matters that require immediate attention. The president is the main contact between the department chair and the graduate students.</p>
               </li>
               <li>
