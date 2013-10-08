@@ -31,7 +31,9 @@
 
               <li><a href="http://www.math.rutgers.edu/seminars/allseminars.php?sem_name=Discrete%20Math">Discrete math seminar</a><br/>Tuesdays at 2 PM in Hill 525</li>
 
-             <li><a href="http://www.math.rutgers.edu/~sk1233/theory-seminar/F13/">Theory seminar</a><br/>Wednesdays at 11 AM in Core 431</li>
+              <li><a href="http://www.math.rutgers.edu/~sk1233/theory-seminar/F13/">Theory seminar</a><br/>Wednesdays at 11 AM in Core 431</li>
+
+              <li><a href="http://www.stat.rutgers.edu/home/pingli/bigdata.html">Statistical Learning and Computation for Big Data Analysis</a><br/>Thursdays at noon in Hill 552 (Lunch at 11:40 AM in Hill 502)</li>
 
               <li><a href="http://www.math.rutgers.edu/seminars/calendar.php">All math seminars</a></li>
               <li><a href="http://www.cs.rutgers.edu/news/colloquia/">All CS seminars</a></li>
