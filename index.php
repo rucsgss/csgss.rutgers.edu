@@ -13,6 +13,18 @@
 
           <div class="newsitem">
             <div>
+              <h2>Open Source Comes to Rutgers</h2>
+              <h3>Mon., Oct 21, 2013</h3>
+              <p>Shauna Gordon-McKeon from <a href="http://openhatch.org/">OpenHatch.org</a> will be helping students get acquainted with and learn about open source:</p>
+              <p>"We'll teach you about open source licensing, collaboration tools, and how free software projects are organized. Then we'll help you make contributions to open source projects. And throughout, we'll feed you, get to know you, and talk with you about opportunities for students in open source."</p>
+			  <p><a href="http://rutgers.openhatch.org/">http://rutgers.openhatch.org/</a></p>
+			  <p>12:30 &ndash; 4:30 PM in Core 301</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
+            <div>
               <h2>October CSGSS Social</h2>
               <h3>Wed., Oct 9, 2013</h3>
 			  <p>Join your fellow CS graduate students for lunch and socializing. A great opportunity
