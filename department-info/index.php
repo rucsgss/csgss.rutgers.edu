@@ -17,6 +17,8 @@
               <li><a href="http://www.math.rutgers.edu/~jmgilmer/semFall2013.html">Theory of Computing Reading Seminar</a><br/>Wednesdays at 9:30 AM in Core 433</li>
 
               <li><a href="http://paul.rutgers.edu/~zy56/reading.group/index.html">Programming Language, Architecture, Compiler Reading Group</a><br/>Fridays at 3 PM in Core B</li>
+
+              <li>CS Theory-Grad Reading Group<br/>Wednesdays at 2 PM in Core A<br/>Email <a href="mailto:cstheory-grad-on@dragon.rutgers.edu">cstheory-grad-on@dragon.rutgers.edu</a> to subscribe to mailing list</li>
             </ul>
           </div>
 
