@@ -16,9 +16,9 @@
             <ul>
               <li><a href="http://www.math.rutgers.edu/~jmgilmer/semFall2013.html">Theory of Computing Reading Seminar</a><br/>Wednesdays at 9:30 AM in Core 433</li>
 
-              <li><a href="http://paul.rutgers.edu/~zy56/reading.group/index.html">Programming Language, Architecture, Compiler Reading Group</a><br/>Fridays at 3 PM in Core B</li>
+              <li>CS Theory-Grad Reading Group (email <a href="mailto:cstheory-grad-on@dragon.rutgers.edu">cstheory-grad-on@dragon.rutgers.edu</a> to subscribe to the mailing list)<br/>Wednesdays at 2 PM in Core A</li>
 
-              <li>CS Theory-Grad Reading Group<br/>Wednesdays at 2 PM in Core A<br/>Email <a href="mailto:cstheory-grad-on@dragon.rutgers.edu">cstheory-grad-on@dragon.rutgers.edu</a> to subscribe to mailing list</li>
+              <li><a href="http://paul.rutgers.edu/~zy56/reading.group/index.html">Programming Languages, Architecture, and Compilers Reading Group</a><br/>Fridays at 3 PM in Core B</li>
             </ul>
           </div>
 
@@ -27,7 +27,7 @@
             <ul>
               <li><a href="http://dimacs.rutgers.edu/Seminars/interseminars13-14.html">DIMACS/CCICADA Interdisciplinary Seminar</a><br/>Mondays at 11 AM in Core 431</li>
 
-              <li>CS Department Colloquium Series<br/>Tuesdays at 11 AM in Core 101</li>
+              <li><a href="http://www.cs.rutgers.edu/~jca105/tues-colloquium/">CS Department Colloquium Series</a><br/>Tuesdays at 11 AM in Core 101</li>
 
               <li><a href="http://www.cs.rutgers.edu/~santosh.nagarakatte/RAPLSeminar.html">Rutgers Architecture and Programming Language Seminar Series</a><br/>(a subset of the CS Department Colloquium Series)</li>
 
