@@ -29,9 +29,9 @@
 
               <li><a href="http://www.cs.rutgers.edu/~santosh.nagarakatte/RAPLSeminar.html">Rutgers Architecture and Programming Language Seminar Series</a><br/>(a subset of the CS Department Colloquium Series)</li>
 
-              <li><a href="http://www.math.rutgers.edu/seminars/allseminars.php?sem_name=Discrete%20Math">Discrete math seminar</a><br/>Tuesdays at 2 PM in Hill 525</li>
+              <li><a href="http://www.math.rutgers.edu/seminars/allseminars.php?sem_name=Discrete%20Math">Discrete Math Seminar</a><br/>Tuesdays at 2 PM in Hill 525</li>
 
-              <li><a href="http://www.math.rutgers.edu/~sk1233/theory-seminar/F13/">Theory seminar</a><br/>Wednesdays at 11 AM in Core 431</li>
+              <li><a href="http://www.math.rutgers.edu/~sk1233/theory-seminar/F13/">Rutgers/DIMACS Theory of Computing Seminar</a><br/>Wednesdays at 11 AM in Core 431</li>
 
               <li><a href="http://www.stat.rutgers.edu/home/pingli/bigdata.html">Statistical Learning and Computation for Big Data Analysis</a><br/>Thursdays at noon in Hill 552 (Lunch at 11:40 AM in Hill 502)</li>
 
