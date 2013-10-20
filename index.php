@@ -19,7 +19,17 @@
               <p>Shauna Gordon-McKeon from <a href="http://openhatch.org/">OpenHatch.org</a> will be helping students get acquainted with and learn about open source:</p>
               <p>"We'll teach you about open source licensing, collaboration tools, and how free software projects are organized. Then we'll help you make contributions to open source projects. And throughout, we'll feed you, get to know you, and talk with you about opportunities for students in open source."</p>
 			  <p><a href="http://rutgers.openhatch.org/">http://rutgers.openhatch.org/</a></p>
-			  <p>12:30 &ndash; 4:30 PM in Core 301</p>
+			  <p>11:30 &ndash; 5:30 PM in Core 301</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
+            <div>
+              <h2>Faculty talk: Santosh Nagarakatte</h2>
+              <h3>Fri., Oct 18, 2013</h3>
+              <p>Santosh's research interests lie in the area of hardware-software interfaces spanning programming languages, compilers, and computer architecture to build robust and secure software systems. This line of work explores new programming abstractions, principles and runtime environments that enable programmers to productively write correct and bug-free software.</p>
+			  <p>1:00 &ndash; 2:00 PM in Core 301</p>
             </div>
             <div class="clear"></div>
           </div>
