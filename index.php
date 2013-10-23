@@ -12,6 +12,16 @@
         <div class="news">
 
           <div class="newsitem">
+            <div>
+              <h2>Potluck Lunch</h2>
+              <h3>Wed., Oct. 23, 2013</h3>
+              <p>Bring a dish to share with your colleagues! We'll provide drinks. Please contact Brian McMahan to coordinate food items.</p>
+              <p>12:00 PM in Core 301</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
             <div class="thumbnail"><img src="/images/openhatch.png" height=300 width=400 alt="OpenHatch logo" class="thumbnail"/></div>
             <div>
               <h2>Open Source Comes to Rutgers</h2>
