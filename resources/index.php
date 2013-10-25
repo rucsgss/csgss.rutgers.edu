@@ -12,6 +12,12 @@
         <div class="resources">
           <h1>Resources</h1>
 
+          <div><div class="arrow"></div><p class="heading">Add CSGSS events to your calendar</p></div>
+          <div class="content">
+            <p>If you use <a href="http://www.google.com/calendar">Google Calendar</a>, go to "Other calendars" &rarr; "Add a friend's calendar", and enter "rutgers.csgss@gmail.com" as the email address.</p>
+            <p>If you use Calendar.app on Mac OS X, go to "File" &rarr; "New Calendar Subscription", and enter "https://www.google.com/calendar/ical/rutgers.csgss%40gmail.com/public/basic.ics" as the calendar address.</p>
+          </div>
+
           <div><div class="arrow"></div><p class="heading">Add department events to your calendar</p></div>
           <div class="content">
             <p>If you use <a href="http://www.google.com/calendar">Google Calendar</a>, go to "Other calendars" &rarr; "Add a friend's calendar", and enter "rutgers.cs@gmail.com" as the email address.</p>
