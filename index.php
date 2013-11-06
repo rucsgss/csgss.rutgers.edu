@@ -13,6 +13,28 @@
 
           <div class="newsitem">
             <div>
+              <h2>November CSGSS Social</h2>
+              <h3>Wed., Nov. 6, 2013</h3>
+			  <p>Join your fellow CS graduate students for lunch and socializing. A great opportunity
+			    to get out of your lab or office and see how the rest of the department is doing.  Don't
+			    forget to bring your appetite!</p>
+			  <p>12:00 &ndash; 1:30 PM in Core 301</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
+            <div>
+              <h2>Faculty talk: Shubhangi Saraf</h2>
+              <h3>Fri., Nov. 1, 2013</h3>
+              <p>Shubhangi's research interests lie in theoretical computer science and discrete mathematics. Her research draws on tools from mathematics such as probability theory, algebra and discrete geometry to better understand some of the basic questions in theoretical computer science in areas such as the complexity of arithmetic computation, randomness in computing, property testing and coding theory.</p>
+			  <p>1:00 &ndash; 2:00 PM in Core 301</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
+            <div>
               <h2>Potluck Lunch</h2>
               <h3>Wed., Oct. 23, 2013</h3>
               <p>Bring a dish to share with your colleagues! We'll provide drinks. Please contact Brian McMahan to coordinate food items.</p>
@@ -25,7 +47,7 @@
             <div class="thumbnail"><img src="/images/openhatch.png" height=300 width=400 alt="OpenHatch logo" class="thumbnail"/></div>
             <div>
               <h2>Open Source Comes to Rutgers</h2>
-              <h3>Mon., Oct 21, 2013</h3>
+              <h3>Mon., Oct. 21, 2013</h3>
               <p>Shauna Gordon-McKeon from <a href="http://openhatch.org/">OpenHatch.org</a> will be helping students get acquainted with and learn about open source:</p>
               <p>"We'll teach you about open source licensing, collaboration tools, and how free software projects are organized. Then we'll help you make contributions to open source projects. And throughout, we'll feed you, get to know you, and talk with you about opportunities for students in open source."</p>
 			  <p><a href="http://rutgers.openhatch.org/">http://rutgers.openhatch.org/</a></p>
@@ -37,7 +59,7 @@
           <div class="newsitem">
             <div>
               <h2>Faculty talk: Santosh Nagarakatte</h2>
-              <h3>Fri., Oct 18, 2013</h3>
+              <h3>Fri., Oct. 18, 2013</h3>
               <p>Santosh's research interests lie in the area of hardware-software interfaces spanning programming languages, compilers, and computer architecture to build robust and secure software systems. This line of work explores new programming abstractions, principles and runtime environments that enable programmers to productively write correct and bug-free software.</p>
 			  <p>1:00 &ndash; 2:00 PM in Core 301</p>
             </div>
@@ -47,11 +69,11 @@
           <div class="newsitem">
             <div>
               <h2>October CSGSS Social</h2>
-              <h3>Wed., Oct 9, 2013</h3>
+              <h3>Wed., Oct. 9, 2013</h3>
 			  <p>Join your fellow CS graduate students for lunch and socializing. A great opportunity
 			    to get out of your lab or office and see how the rest of the department is doing.  Don't
 			    forget to bring your appetite!</p>
-			  <p>12:00 &ndash; 1:30 PM in Core A</p>
+			  <p>12:00 &ndash; 1:30 PM in Core 301</p>
             </div>
             <div class="clear"></div>
           </div>
@@ -69,11 +91,11 @@
           <div class="newsitem">
             <div>
               <h2>September CSGSS Social</h2>
-              <h3>Wed., Sept 11, 2013</h3>
+              <h3>Wed., Sept. 11, 2013</h3>
 			  <p>Join your fellow CS graduate students for lunch and socializing. A great opportunity
 			    to get out of your lab or office and see how the rest of the department is doing.  Don't
 			    forget to bring your appetite!</p>
-			  <p>12:00 &ndash; 1:30 PM in Core A</p>
+			  <p>12:00 &ndash; 1:30 PM in Core 301</p>
             </div>
             <div class="clear"></div>
           </div>
