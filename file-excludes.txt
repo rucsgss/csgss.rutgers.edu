@@ -3,7 +3,6 @@
 .gitignore
 Makefile
 archive
-default.css
 file-excludes.txt
 images-source
 unused
