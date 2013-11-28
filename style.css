@@ -198,43 +198,39 @@ table.photos td {
  * Officers Page       *
  **********************/
 
-div.officers ul {
-    list-style-type: none;
-    margin: 0px;
-}
-
-div.current-officers {
-    margin-top: 20px;
-}
-
-div.current-officers li {
-    height: 80px;
-    padding-bottom: 20px;
-    text-align: left;
+div.current-officers h1 {
+    margin-bottom: 20px;
 }
 
 div.current-officers img {
-    height: 80px;
-    width: 80px;
-    background: #d1d1d1;
-    -moz-border-radius: 10px;
-    border-radius: 10px;
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
-div.officers h2 {
+div.current-officers h2 {
     font-size: 1.3em;
     font-weight: normal;
 }
 
-div.officers p {
+div.current-officers .description {
+    padding-top: 20px;
+}
+
+div.current-officers p {
     margin-left: 10px;
     display: inline;
     text-indent: 0em;
 }
 
+div.officer {
+    height: 175px;
+}
+
 div.officer img {
     float: left;
+}
+
+div.previous-officers {
+    padding-top: 30px;
 }
 
 div.previous-officers .year {
