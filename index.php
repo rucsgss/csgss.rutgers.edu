@@ -13,6 +13,18 @@
 
           <div class="newsitem">
             <div>
+              <h2>December CSGSS Social</h2>
+              <h3>Wed., Dec. 4, 2013</h3>
+			  <p>Join your fellow CS graduate students for lunch and socializing. A great opportunity
+			    to get out of your lab or office and see how the rest of the department is doing.  Don't
+			    forget to bring your appetite!</p>
+			  <p>12:00 &ndash; 1:30 PM in Core 301</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
+            <div>
               <h2>November CSGSS Social</h2>
               <h3>Wed., Nov. 6, 2013</h3>
 			  <p>Join your fellow CS graduate students for lunch and socializing. A great opportunity
