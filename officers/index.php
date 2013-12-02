@@ -9,7 +9,7 @@
       <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/header.html") ?>
       <div class="page_content">
         <div class="current-officers">
-          <h1>Current Officers</h1>
+          <h1>Officers for 2013 &ndash; 2014</h1>
           <div class="officer">
             <div class="headshot"><a href="http://www.cs.rutgers.edu/~jca105/"><img src="/images/president.png" height=150 width=150 alt="Photo of CSGSS president"/></a></div>
             <div class="description">
