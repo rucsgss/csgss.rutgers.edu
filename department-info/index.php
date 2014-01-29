@@ -16,7 +16,7 @@
             <ul>
               <li><a href="http://paul.rutgers.edu/~zy56/reading.group/index.html">Programming Languages, Architecture, and Compilers Reading Group</a><br/>Tuesdays at 3 PM in Core B</li>
 
-              <li><a href="http://www.math.rutgers.edu/~jmgilmer/semFall2013.html">Theory of Computing Reading Seminar</a><br/>Wednesdays at 9:30 AM in Core 433</li>
+              <li><a href="https://www.math.rutgers.edu/~tnaumovi/seminar.html">Theory of Computing Reading Seminar</a><br/>Wednesdays at 9:30 AM in Core 433</li>
 
               <li>CS Theory-Grad Reading Group<br />(email <a href="mailto:cstheory-grad-on@dragon.rutgers.edu">cstheory-grad-on@dragon.rutgers.edu</a> to subscribe to the mailing list)<br/>Wednesdays at 2 PM in Core A</li>
             </ul>
@@ -33,7 +33,7 @@
 
               <li><a href="http://www.math.rutgers.edu/seminars/allseminars.php?sem_name=Discrete%20Math">Discrete Math Seminar</a><br/>Tuesdays at 2 PM in Hill 525</li>
 
-              <li><a href="http://www.math.rutgers.edu/~sk1233/theory-seminar/F13/">Rutgers/DIMACS Theory of Computing Seminar</a><br/>Wednesdays at 11 AM in Core 431</li>
+              <li><a href="http://www.math.rutgers.edu/~sk1233/theory-seminar/S14/">Rutgers/DIMACS Theory of Computing Seminar</a><br/>Wednesdays at 11 AM in Core 301</li>
 
               <li><a href="http://www.stat.rutgers.edu/home/pingli/bigdata.html">Statistical Learning and Computation for Big Data Analysis</a><br/>Thursdays at noon in Hill 552 (Lunch at 11:40 AM in Hill 502)</li>
 
