@@ -13,8 +13,30 @@
 
           <div class="newsitem">
             <div>
+              <h2>End of Year Social</h2>
+              <h3>Wed., May 7, 2014</h3>
+              <p>To celebrate the conclusion of the academic year, CSGSS and the CS department are holding an end-of-semester lunch social. There will be catered food and drinks provided.</p>
+              <p>12:30 PM &ndash; 2:00 PM, on the lawn outside Core.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
+            <div>
+              <h2>March CSGSS Social</h2>
+              <h3>Wed., Mar 26, 2014</h3>
+			  <p>Join your fellow CS graduate students for lunch and socializing. A great opportunity
+			    to get out of your lab or office and see how the rest of the department is doing.  Don't
+			    forget to bring your appetite!</p>
+			  <p>12:00 &ndash; 1:30 PM in Core 301</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
+            <div>
               <h2>February CSGSS Social</h2>
-              <h3>Fri., Feb. 28, 2013</h3>
+              <h3>Fri., Feb. 28, 2014</h3>
 			  <p>Join your fellow CS graduate students for lunch and socializing. A great opportunity
 			    to get out of your lab or office and see how the rest of the department is doing.  Don't
 			    forget to bring your appetite!</p>
