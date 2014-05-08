@@ -17,7 +17,7 @@
               <li><a href="http://paul.rutgers.edu/~zy56/reading.group/index.html">Programming Languages, Architecture, and Compilers Reading Group</a><br/>
                 Tuesdays at 10 AM in Core B</li>
 
-              <li><a href="https://www.math.rutgers.edu/~tnaumovi/seminar.html">Theory of Computing Reading Seminar</a><br/>
+              <li><a href="http://www.math.rutgers.edu/~tnaumovi/seminar.html">Theory of Computing Reading Seminar</a><br/>
                 Wednesdays at 9:30 AM in Core 433</li>
 
               <li>CS Theory-Grad Reading Group<br />
