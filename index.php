@@ -13,6 +13,15 @@
 
           <div class="newsitem">
             <div>
+              <h2>CSGSS Excellence in Teaching Award for 2014</h2>
+              <h3>Wed., May 7, 2014</h3>
+              <p>We are happy to announce that this year's Excellence in Teaching Award has been awarded to Professor Shubhangi Saraf. Congratulations!</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
+            <div>
               <h2>End of Year Social</h2>
               <h3>Wed., May 7, 2014</h3>
               <p>To celebrate the conclusion of the academic year, CSGSS and the CS department are holding an end-of-semester lunch social. There will be catered food and drinks provided.</p>
