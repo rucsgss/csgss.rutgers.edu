@@ -13,6 +13,20 @@
 
           <div class="newsitem">
             <div>
+              <h2>CSGSS Officers for 2014 &ndash; 2015</h2>
+              <h3>Thu., May 15, 2014</h3>
+              <p>Election results are in!</p>
+              <ul>
+                <li>President: Brian McMahan</li>
+                <li>Vice President: Jeff Ames</li>
+                <li>Treasurer: Pracheeti Maheshwari</li>
+              </ul>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
+            <div>
               <h2>CSGSS Excellence in Teaching Award for 2014</h2>
               <h3>Wed., May 7, 2014</h3>
               <p>We are happy to announce that this year's Excellence in Teaching Award has been awarded to <a href="http://math.rutgers.edu/~ss1984/">Professor Shubhangi Saraf</a>. Congratulations!</p>
