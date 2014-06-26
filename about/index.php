@@ -17,6 +17,150 @@
         </ul>
         <p>We strongly encourage your active participation in CSGSS. If you have suggestions on how to improve any aspect of graduate student life, please bring it to the attention of an <a href="/officers/">executive officer</a> of CSGSS or the appropriate committee representative. If you are unsure who to contact, or have a request of interest to the executive board, send mail to the current president.</p>
         <p>CSGSS is part of the all-encompassing <a href="http://gsa.rutgers.edu/">Graduate Student Association (GSA)</a>. The GSA is the official forum for graduate students to voice comments, concerns, and complaints about graduate life at Rutgers University. All of our yearly funding comes from the GSA, though the department often contributes to individual projects and events undertaken by CSGSS.</p>
+        <h1>Constitution</h1>
+        <h2>Article 1: Name</h2>
+
+        <p>The name of the organization will be the Computer Science Graduate
+          Student Society, with the acronym CSGSS.</p>
+
+        <h2>Article 2: Purpose</h2>
+
+        <p>The purpose of CSGSS shall be:</p>
+
+        <ul>
+          <li>To promote fellowship among the Computer Science graduate student
+            community at Rutgers and other students, faculty, or staff
+            interested in CS.</li>
+
+          <li>To welcome and counsel all newly arrived or prospective Rutgers CS
+            graduate students.</li>
+
+          <li>To promote social and educational activities among the Rutgers community
+            related to CS.</li>
+
+          <li>To serve as a forum for discussion about life in the CS Department,
+            academics, the MS and PhD programs, etc.</li>
+
+          <li>To serve as a link between CS graduate students and the CS Dept at
+            Rutgers.</li>
+        </ul>
+
+        <h2>Article 3: Membership</h2>
+
+        <ul>
+          <li>All Rutgers Computer Science graduate students are members of CSGSS.</li>
+
+          <li>Members have the duty to comply with the CSGSS Constitution.</li>
+
+          <li>Any CSGSS graduate student member is a full member of CSGSS. Full
+            members can vote and be elected as CSGSS officers.</li>
+        </ul>
+        <h2>Article 4: Structure</h2>
+
+        <ul>
+          <li>Policy decisions are made by the Executive Committee. The Executive
+            Committee is composed of the following officers elected from the
+            full members of CSGSS:
+
+            <ol>
+              <li>President,</li>
+              <li>Vice President,</li>
+              <li>Treasurer.</li>
+            </ol>
+          </li>
+
+          <li>The term of office for all members of the Executive Committee shall
+            be one year.</li>
+
+          <li>No officer shall hold two or more offices simultaneously.</li>
+
+          <li>The decisions of the Executive Committee are taken with the approval
+            of at least two of its members.</li>
+
+          <li>Each year, the Executive Committee shall present a complete report
+            of the CSGSS activities during the past year to all the members.</li>
+
+          <li>The members of the Executive Committee share the responsibility of
+            organizing CSGSS events. In addition, they have the responsibilities
+            described below:</li>
+
+          <ul>
+	        <li>The President shall be the chair of the Executive Committee and
+	          the official representative of CSGSS in Rutgers GSA. During the
+	          absence of the President, he/she is temporarily replaced (in
+	          this order) by the the CSGSS Vice President or CSGSS Treasurer.</li>
+
+            <li>The Vice President shall keep record of the decisions taken by
+	          the Executive Committee and by General Meetings. Additionally,
+	          he/she shall maintain the CSGSS website and manage the CSGSS
+	          mailing list.</li>
+
+            <li>The Treasurer shall be responsible for the CSGSS funds and shall
+	          pay the bills under the direction of the Executive Committee.</li>
+          </ul>
+        </ul>
+
+        <h2>Article 5: Meetings</h2>
+        <ul>
+          <li>The Executive Committee shall meet at least once per month.</li>
+
+          <li>General Meetings shall be held at least twice per year. General
+            Meetings shall be scheduled during the Spring or the Fall Term and
+            should be announced at least seven days in advance.</li>
+
+          <li>The majority of the Executive Committee or one third of the full
+            members may call a General Meeting.</li>
+        </ul>
+
+        <h2>Article 6: Elections</h2>
+        <ul>
+          <li>General elections for the Executive Committee shall be held once per
+            year, during a General Meeting.</li>
+
+          <li>Only CSGSS full members can candidate for positions in the Executive
+            Committee.</li>
+
+          <li>The voting process shall be secret.</li>
+
+          <li>General elections for the Executive Committee must be held with a
+            quorum of at least the majority (half plus one) of the CSGSS full
+            members. If a quorum is not obtained at the election meeting,
+            general elections shall be postponed by no more than fifteen days. A
+            quorum shall not be required for the rescheduled general elections
+            meeting.</li>
+
+          <li>To be elected, a candidate shall obtain the absolute majority of the
+            votes.  If a first round vote does not produce a winner by absolute
+            majority, a second round shall be held between the two most voted
+            candidates.</li>
+
+          <li>There shall be no voting by proxy or mail.</li>
+        </ul>
+        <h2>Article 7: Resignation and Removal from Office</h2>
+        <ul>
+          <li>The removal from office of an Executive Committee member can be
+            pursued with the approval of the majority of the full CSGSS members,
+            during a General Meeting specially organized for this purpose.</li>
+
+          <li>New elections for an open Executive Committee position shall be held
+            at the next General Meeting.</li>
+        </ul>
+        <h2>Article 8: Constitutional Amendments</h2>
+        <ul>
+          <li>The majority of the Executive Committee or one third of the full
+            members may propose a constitutional amendment. The proposed
+            amendment has to be posted two weeks in advance of the General
+            Meeting which will discuss it.</li>
+
+          <li>The amendment can pass by the vote of two thirds of the CSGSS full
+            members.</li>
+
+          <li>The voting process for constitutional amendments shall be open.</li>
+
+          <li>Full members unable to attend a General Meeting that will discuss
+            constitutional amendments shall be able to vote by sending a letter
+            to the Executive Committee.</li>
+        </ul>
       </div>
       <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/footer.html") ?>
     </div>
