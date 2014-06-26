@@ -17,19 +17,28 @@
 
         <h2>Recipients</h2>
         <ul>
-          <li>2013 &ndash; 2014: Shubhangi Saraf</li>
-          <li>2012 &ndash; 2013: Swastik Kopparty</li>
-          <li>2011 &ndash; 2012: Martin Farach-Colton</li>
-          <li>2009 &ndash; 2010: Badri Nath</li>
-          <li>2008 &ndash; 2009: Muthu Muthukrishnan</li>
-          <li>2007 &ndash; 2008: William Steiger</li>
-          <li>2006 &ndash; 2007: Joseph Kilian</li>
-          <li>2004 &ndash; 2005: William Steiger</li>
-          <li>2003 &ndash; 2004: Michael L. Littman</li>
-          <li>2002 &ndash; 2003: Barbara G. Ryder</li>
-          <li>2001 &ndash; 2002: Thu D. Nguyen</li>
-          <li>2000 &ndash; 2001: Vasek Chvatal</li>
-          <li>1989 &ndash; 1990: Chris Tong</li>
+          <li>2014: Shubhangi Saraf</li>
+          <li>2013: Swastik Kopparty</li>
+          <li>2012: Martin Farach-Colton</li>
+          <li>2010: Badri Nath</li>
+          <li>2009: Muthu Muthukrishnan</li>
+          <li>2008: William Steiger</li>
+          <li>2007: Joseph Kilian</li>
+          <li>2005: William Steiger</li>
+          <li>2004: Michael L. Littman</li>
+          <li>2003: Barbara G. Ryder</li>
+          <li>2002: Thu D. Nguyen</li>
+          <li>2001: Vasek Chvatal</li>
+          <li>1997: Gerard Richter</li>
+          <li>1997: Miles Murdocca</li>
+          <li>1996: L. Khachiyan</li>
+          <li>1995: Badri Nath</li>
+          <li>1994: Haym Hirsh</li>
+          <li>1993: Vasek Chvatal</li>
+          <li>1992: Vasek Chvatal</li>
+          <li>1991: Alex Borgida</li>
+          <li>1990: Chris Tong</li>
+          <li>1989: Ravi Boppana</li>
         </ul>
 
         <h1>Kitchen</h1>
