@@ -42,7 +42,7 @@
         </ul>
 
         <h1>Kitchen</h1>
-        <p>The third floor lobby of the CoRE building contains a kitchen for use by all DCS faculty, staff, and students. The kitchen has food and drinks available and is run by members of CSGSS on a volunteer basis. If you have any questions or suggestions, or if you'd like to help out, please contact the current CSGSS president.</p>
+        <p>The third floor lobby of the CoRE building contains a kitchen for use by all DCS faculty, staff, and students. The kitchen is run by members of CSGSS on a volunteer basis. If you have any questions or suggestions, or if you'd like to help out, please contact the current CSGSS president.</p>
       </div>
       <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/footer.html") ?>
     </div>
