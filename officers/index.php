@@ -9,31 +9,40 @@
       <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/header.html") ?>
       <div class="page_content">
         <div class="current-officers">
-          <h1>Officers for 2013 &ndash; 2014</h1>
+          <h1>Officers for 2014 &ndash; 2015</h1>
           <div class="officer">
             <div class="headshot"><a href="http://www.cs.rutgers.edu/~jca105/"><img src="/images/president.png" height=150 width=150 alt="Photo of CSGSS president"/></a></div>
             <div class="description">
-              <h2>President: <a href="http://www.cs.rutgers.edu/~jca105/">Jeff Ames</a></h2>
+              <h2>President: <a href="mailto:bcm84@cs.rutgers.edu">Brian McMahan</a></h2>
               <p>The president oversees the general operation of CSGSS and is the one to contact about matters that require immediate attention. The president is the main contact between the department chair and the graduate students.</p>
             </div>
           </div>
           <div class="officer">
             <div class="headshot"><img src="/images/vice-president.png" height=150 width=150 alt="Photo of CSGSS vice president"/></div>
             <div class="description">
-              <h2>Vice President: <a href="mailto:bcm84@cs.rutgers.edu">Brian McMahan</a></h2>
+              <h2>Vice President: <a href="http://www.cs.rutgers.edu/~jca105/">Jeff Ames</a></h2>
               <p>The vice president shares the workload of the president and possibly inherits it in the case of presidential absence. The vice president is responsible for keeping a watchful eye over all of the activities of the various committees.</p>
             </div>
           </div>
           <div class="officer">
             <div class="headshot"><img src="/images/treasurer.png" height=150 width=150 alt="Photo of CSGSS treasurer"/></div>
             <div class="description">
-              <h2>Treasurer: <a href="mailto:amrbakry@cs.rutgers.edu">Amr Bakry</a></h2>
+              <h2>Treasurer: <a href="http://paul.rutgers.edu/~prachm/">Pracheeti Maheshwari</a></h2>
               <p>The treasurer is responsible for managing the financial operations of all CSGSS-sponsored events.</p>
             </div>
           </div>
         </div>
         <div class="previous-officers">
           <h1>Previous Officers</h1>
+
+          <div class="year">
+            <h2>2013 &ndash; 2014</h2>
+            <ul>
+              <li>President: Jeff Ames</li>
+              <li>Vice President: Brian McMahan</li>
+              <li>Treasurer: Amr Bakry</li>
+            </ul>
+          </div>
 
           <div class="year">
             <h2>2012 &ndash; 2013</h2>
