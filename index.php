@@ -15,7 +15,7 @@
             <div>
               <h2>CSGSS Excellence in Teaching Award for 2014</h2>
               <h3>Wed., May 7, 2014</h3>
-              <p>We are happy to announce that this year's Excellence in Teaching Award has been awarded to Professor Shubhangi Saraf. Congratulations!</p>
+              <p>We are happy to announce that this year's Excellence in Teaching Award has been awarded to <a href="http://math.rutgers.edu/~ss1984/">Professor Shubhangi Saraf</a>. Congratulations!</p>
             </div>
             <div class="clear"></div>
           </div>
