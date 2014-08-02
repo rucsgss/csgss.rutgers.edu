@@ -13,6 +13,16 @@
 
           <div class="newsitem">
             <div>
+              <h2>Farewell till the fall!</h2>
+              <h3>Fri., May 16, 2014</h3>
+              <img src="/images/department-photo-2014.jpg" height=213 width=800 alt="Prof. Shubhangi accepting award"/>
+              <p>Congratulations to everyone graduating this year, and have a great summer!</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
+            <div>
               <h2>CSGSS Officers for 2014 &ndash; 2015</h2>
               <h3>Thu., May 15, 2014</h3>
               <p>Election results are in!</p>
