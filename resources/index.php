@@ -12,20 +12,45 @@
         <div class="resources">
           <h1>Resources</h1>
 
-          <div><div class="arrow"></div><p class="heading">Add CSGSS events to your calendar</p></div>
+          <div><div class="arrow"></div><p class="heading">Add CS and CSGSS events to your calendar</p></div>
           <div class="content">
-            <p>If you use <a href="http://www.google.com/calendar">Google Calendar</a>, go to "Other calendars" &rarr; "Add a friend's calendar", and enter "rutgers.csgss@gmail.com" as the email address.</p>
-            <p>If you use Calendar.app on Mac OS X, go to "File" &rarr; "New Calendar Subscription", and enter "https://www.google.com/calendar/ical/rutgers.csgss%40gmail.com/public/basic.ics" as the calendar address.</p>
+            <div class="url-table">
+            <h4>Google calendar</h4>
+            <table>
+              <tr>
+                <td>CS department:</td>
+                <td><code>rutgers.cs@gmail.com</code></td>
+              </tr>
+              <tr>
+                <td>CSGSS:</td>
+                <td><code>rutgers.csgss@gmail.com</code></td>
+              </tr>
+            </table>
 
-            <p>If you use the Lightning calendar plugin for Thunderbird, go to "File" &rarr; "New" &rarr; "Calendar...", select "On the Network", choose "iCalendar (ICS)", and enter "https://www.google.com/calendar/ical/rutgers.csgss%40gmail.com/public/basic.ics" for the location.</p>
-          </div>
+            <h4>Other calendar applications (iCalendar format)</h4>
+            <table>
+              <tr>
+                <td>CS department:</td>
+                <td><code>https://www.google.com/calendar/ical/rutgers.cs%40gmail.com/public/basic.ics</code></td>
+              </tr>
+              <tr>
+                <td>CSGSS:</td>
+                <td><code>https://www.google.com/calendar/ical/rutgers.csgss%40gmail.com/public/basic.ics</code></td>
+              </tr>
+            </table>
+            </div>
 
-          <div><div class="arrow"></div><p class="heading">Add department events to your calendar</p></div>
-          <div class="content">
-            <p>If you use <a href="http://www.google.com/calendar">Google Calendar</a>, go to "Other calendars" &rarr; "Add a friend's calendar", and enter "rutgers.cs@gmail.com" as the email address.</p>
-            <p>If you use Calendar.app on Mac OS X, go to "File" &rarr; "New Calendar Subscription", and enter "https://www.google.com/calendar/ical/rutgers.cs%40gmail.com/public/basic.ics" as the calendar address.</p>
+            <p>If you use <a href="http://www.google.com/calendar">Google Calendar</a>,
+              go to "Other calendars" &rarr; "Add a friend's calendar",
+              and enter the Google calendar email address.</p>
 
-            <p>If you use the Lightning calendar plugin for Thunderbird, go to "File" &rarr; "New" &rarr; "Calendar...", select "On the Network", choose "iCalendar (ICS)", and enter "https://www.google.com/calendar/ical/rutgers.cs%40gmail.com/public/basic.ics" for the location.</p>
+            <p>If you use Calendar.app on Mac OS X,
+              go to "File" &rarr; "New Calendar Subscription",
+              and enter the iCalendar URL as the calendar address.</p>
+
+            <p>If you use the Lightning calendar plugin for Thunderbird,
+              go to "File" &rarr; "New" &rarr; "Calendar...", select "On the Network", choose "iCalendar (ICS)",
+              and enter the iCalendar URL for the location.</p>
           </div>
 
           <div><div class="arrow"></div><p class="heading">Create your department webpage</p></div>
