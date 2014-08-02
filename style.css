@@ -178,23 +178,6 @@ div.news .clear {
 }
 
 /***********************
- * Events Page         *
- **********************/
-
-span.event_date {
-    font-weight: bold;
-}
-
-table.photos {
-    border-collapse: collapse;
-}
-
-table.photos td {
-    text-align: center;
-    padding: 10px 10px;
-}
-
-/***********************
  * Officers Page       *
  **********************/
 
@@ -251,6 +234,14 @@ div.resources {
     width: 940px;
 }
 
+div.resources div.url-table {
+    padding-bottom: 20px;
+}
+
+div.resources table td {
+    padding: 0px 10px;
+}
+
 p.heading {
     padding: 3px 10px;
     cursor: pointer;
@@ -261,6 +252,7 @@ p.heading {
 div.content {
     padding: 5px 10px;
     margin-left: 40px;
+    overflow:hidden;
 }
 
 div.arrow {
