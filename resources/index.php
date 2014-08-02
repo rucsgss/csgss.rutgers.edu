@@ -70,7 +70,9 @@ chmod 644 ~/public_html/index.html</code></pre>
 
           <div><div class="arrow"></div><p class="heading">Get Rutgers business cards</p></div>
           <div class="content">
-            <p>Contact <a href="mailto:granholm@rci.rutgers.edu">Georgene Granholm</a> for information on how to order official business cards.</p>
+            <div class="thumbnail"><img src="/images/business-card-foobar.jpg" height=171 width=300 alt="Example business card" class="thumbnail"/></div>
+            <p>Business cards can be ordered through <a href="http://www.duplionline.com/">Dupli Envelope &amp; Graphics</a>.
+              Click on "Login DupliOnline" and then use "rutstu" for account code, username, and password.</p>
           </div>
 
           <div><div class="arrow"></div><p class="heading">Write your thesis in LaTeX</p></div>
