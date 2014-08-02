@@ -28,13 +28,6 @@
             <p>If you use the Lightning calendar plugin for Thunderbird, go to "File" &rarr; "New" &rarr; "Calendar...", select "On the Network", choose "iCalendar (ICS)", and enter "https://www.google.com/calendar/ical/rutgers.cs%40gmail.com/public/basic.ics" for the location.</p>
           </div>
 
-          <div><div class="arrow"></div><p class="heading">Advice on graduate school</p></div>
-          <div class="content">
-            <p><a href="https://sites.google.com/site/adviceforgraduatestudents/">Advice for Graduate Students</a></p>
-            <p><a href="http://www.csee.umbc.edu/~mariedj/papers/advice.pdf">How to Succeed in Graduate School</a></p>
-            <p><a href="http://grad.berkeley.edu/acapro/surviving_thriving.shtml">Surviving & Thriving in Graduate School</a></p>
-          </div>
-
           <div><div class="arrow"></div><p class="heading">Create your department webpage</p></div>
           <div class="content">
             <p>Your disk space on the graduate domain can be used to host public web pages. Your public space will be located at http://paul.rutgers.edu/~dcs_username/, where "dcs_username" is your DCS username. If you prefer, you can also use http://www.cs.rutgers.edu/~dcs_username/, which is an alias for your webpage on paul.rutgers.edu.</p>
