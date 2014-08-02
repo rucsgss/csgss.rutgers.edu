@@ -43,7 +43,7 @@ div.header p {
     position: absolute;
     top: 5px;
     right: 20px;
-    color: #ccc;
+    color: #ddd;
     font-size: 2.2em;
 }
 
@@ -281,7 +281,7 @@ div.expanded {
 
 img.thumbnail {
     border: 1px solid black;
-    box-shadow: 3px 3px 4px #000;
+    box-shadow: 3px 3px 4px #111;
     margin-right: 20px;
 }
 
