@@ -15,7 +15,7 @@
             <div>
               <h2>Farewell till the fall!</h2>
               <h3>Fri., May 16, 2014</h3>
-              <img src="/images/department-photo-2014.jpg" height=213 width=800 alt="Prof. Shubhangi accepting award"/>
+              <a href="/images/department-photo-2014.png"><img src="/images/department-photo-2014.jpg" height=215 width=800 alt="Group photo at the end-of-year social" class="thumbnail"/></a>
               <p>Congratulations to everyone graduating this year, and have a great summer!</p>
             </div>
             <div class="clear"></div>
