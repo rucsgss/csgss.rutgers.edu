@@ -30,7 +30,7 @@
 
           <div><div class="arrow"></div><p class="heading">Create your department webpage</p></div>
           <div class="content">
-            <p>Your disk space on the graduate domain can be used to host public web pages. Your public space will be located at http://paul.rutgers.edu/~dcs_username/, where "dcs_username" is your DCS username. If you prefer, you can also use http://www.cs.rutgers.edu/~dcs_username/, which is an alias for your webpage on paul.rutgers.edu.</p>
+            <p>Your disk space on the graduate domain can be used to host public web pages. Your public space will be located at http://paul.rutgers.edu/~USERNAME/. If you prefer, you can also use http://www.cs.rutgers.edu/~USERNAME/, which is an alias for your webpage on paul.rutgers.edu.</p>
             <p>To set up your webpage, create a <code>~/public_html</code> directory on one of <a href="http://www.cs.rutgers.edu/resources/systems/graduate/machines.whtml">these servers</a> and place your HTML files within it.</p>
             <p>For example,</p>
             <div class="code">
