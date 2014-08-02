@@ -43,11 +43,6 @@ chmod 644 ~/public_html/index.html</code></pre>
             <p>Note that at present, no server-side scripting (PHP, etc.) is enabled.</p>
           </div>
 
-          <div><div class="arrow"></div><p class="heading">Department wiki (unofficial)</p></div>
-          <div class="content">
-            <p>The unofficial DCS wiki can be found at <a href="http://wiki.cs.rutgers.edu/mediawiki/index.php/Main_Page">http://wiki.cs.rutgers.edu/mediawiki/index.php/Main_Page</a>. Contact <a href="mailto:help@cs.rutgers.edu">help@cs</a> for an account.</p>
-          </div>
-
           <div><div class="arrow"></div><p class="heading">Get Rutgers business cards</p></div>
           <div class="content">
             <p>Contact <a href="mailto:granholm@rci.rutgers.edu">Georgene Granholm</a> for information on how to order official business cards.</p>
