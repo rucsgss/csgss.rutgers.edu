@@ -38,7 +38,7 @@
               <li><a href="http://www.math.rutgers.edu/seminars/allseminars.php?sem_name=Discrete%20Math">Discrete Math Seminar</a><br/>
                 Tuesdays at 2 PM in Hill 525</li>
 
-              <li><a href="http://www.math.rutgers.edu/~sk1233/theory-seminar/S14/">Rutgers/DIMACS Theory of Computing Seminar</a><br/>
+              <li><a href="http://www.math.rutgers.edu/~sk1233/theory-seminar/F14/">Rutgers/DIMACS Theory of Computing Seminar</a><br/>
                 Wednesdays at 11 AM in Core 301</li>
 
               <li><a href="http://www.stat.rutgers.edu/home/pingli/bigdata.html">Statistical Learning and Computation for Big Data Analysis</a><br/>
