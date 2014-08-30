@@ -25,6 +25,10 @@
                 <td>CSGSS:</td>
                 <td><code>rutgers.csgss@gmail.com</code></td>
               </tr>
+              <tr>
+                <td>Rutgers academic calendar:</td>
+                <td><code>rutgers.academic@gmail.com</code></td>
+              </tr>
             </table>
 
             <h4>Other calendar applications (iCalendar format)</h4>
@@ -36,6 +40,10 @@
               <tr>
                 <td>CSGSS:</td>
                 <td><code>https://www.google.com/calendar/ical/rutgers.csgss%40gmail.com/public/basic.ics</code></td>
+              </tr>
+              <tr>
+                <td>Rutgers academic calendar:</td>
+                <td><code>https://www.google.com/calendar/ical/rutgers.academic%40gmail.com/public/basic.ics</code></td>
               </tr>
             </table>
             </div>
