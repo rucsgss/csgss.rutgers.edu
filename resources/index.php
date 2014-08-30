@@ -59,7 +59,7 @@
             <p>To set up your webpage, create a <code>~/public_html</code> directory on one of <a href="http://www.cs.rutgers.edu/resources/systems/graduate/machines.whtml">these servers</a> and place your HTML files within it.</p>
             <p>For example,</p>
             <div class="code">
-              <pre><code>ssh USERNAME@galaxian.rutgers.edu
+              <pre><code>ssh USERNAME@galaxian.cs.rutgers.edu
 mkdir -p ~/public_html
 echo '&lt;h1&gt;Hello, world!&lt;/h1&gt;' &gt; ~/public_html/index.html
 chmod 755 ~/public_html
