@@ -11,6 +11,9 @@
         <h1>General Meetings (Social Lunches)</h1>
         <p>Every semester, CSGSS tries to schedule a few lunch meetings where graduate students, faculty, and staff can get together and exchange ideas in a less academic environment. These meetings are also where general votes are taken (such as to elect a new executive board), or general announcements are given from CSGSS, administration, or staff.</p>
 
+        <h1>Graduate Student Mentors</h1>
+        <p>In the spring, CSGSS seeks out current graduate students to act as student mentors for incoming students. The goal is to help new students, especially those arriving from foreign countries, become accustomed to the CS department, Rutgers University, and the surrounding area. If you are interested in becoming a student mentor, please contact a current CSGSS officer.</p>
+
         <h1>Award for Excellence in Teaching</h1>
         <p>The 1988-89 Executive Board of the Computer Science Graduate Student Society (CSGSS) voted to establish an annual award for excellence in teaching. Every year the award is presented to a Rutgers DCS faculty member, based upon a plurality vote of the members of CSGSS.</p>
         <p>Members of CSGSS are encouraged to vote for the faculty teacher who best developed their students' insight and enthusiasm for the subject they taught. The person you vote for need not currently be an instructor, but should currently be a member of the DCS faculty who has taught a CS graduate course within the current academic year.</p>
