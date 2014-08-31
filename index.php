@@ -13,6 +13,15 @@
 
           <div class="newsitem">
             <div>
+              <h2>Welcome!</h2>
+              <h3>Fri., Aug 29, 2014</h3>
+              <p>Welcome to all the new graduate students this year!</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
+            <div>
               <h2>Farewell till the fall!</h2>
               <h3>Fri., May 16, 2014</h3>
               <a href="/images/department-photo-2014.png"><img src="/images/department-photo-2014.jpg" height=215 width=800 alt="Group photo at the end-of-year social" class="thumbnail"/></a>
