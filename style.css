@@ -294,6 +294,10 @@ div.logo {
     margin: 20px;
 }
 
+div.logo img {
+    vertical-align: top;
+}
+
 div.logo_container {
     overflow: auto;
 }
