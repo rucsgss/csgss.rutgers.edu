@@ -20,6 +20,7 @@
 
         <div class="logo_container">
           <div class="logo"><a href="http://facebook.com/rucsgss"><img src="/images/facebook.png" height=64 width=64 alt="Facebook"></a></div>
+          <div class="logo"><a href="http://github.com/rucsgss"><img src="/images/github.png" height=64 width=64 alt="GitHub"></a></div>
           <div class="logo"><a href="http://twitter.com/rucsgss"><img src="/images/twitter.png" height=64 width=64 alt="Twitter"></a></div>
         </div>
 
