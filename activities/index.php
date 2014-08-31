@@ -44,8 +44,6 @@
           <li>1989: Ravi Boppana</li>
         </ul>
 
-        <h1>Kitchen</h1>
-        <p>The third floor lobby of the CoRE building contains a kitchen for use by all DCS faculty, staff, and students. The kitchen is run by members of CSGSS on a volunteer basis. If you have any questions or suggestions, or if you'd like to help out, please contact the current CSGSS president.</p>
       </div>
       <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/footer.html") ?>
     </div>
