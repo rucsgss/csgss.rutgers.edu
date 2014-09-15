@@ -13,6 +13,18 @@
 
           <div class="newsitem">
             <div>
+              <h2>September Lunch Social</h2>
+              <h3>Thurs., Sept. 18, 2014</h3>
+			  <p>Join your fellow CS graduate students for lunch and socializing. A great opportunity
+			    to get out of your lab or office and see how the rest of the department is doing.  Don't
+			    forget to bring your appetite!</p>
+			  <p>12:00 &ndash; 1:30 PM in Core 301</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
+            <div>
               <h2>Welcome!</h2>
               <h3>Fri., Aug 29, 2014</h3>
               <p>Welcome to all the new graduate students this year!</p>
