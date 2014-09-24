@@ -29,7 +29,7 @@
           <div><p class="heading">Colloquiua and seminars</p></div>
           <div class="content">
             <ul>
-              <li><a href="http://dimacs.rutgers.edu/Seminars/interseminars13-14.html">DIMACS/CCICADA Interdisciplinary Seminar</a><br/>
+              <li><a href="http://dimacs.rutgers.edu/Seminars/interseminars14-15.html">DIMACS/CCICADA Interdisciplinary Seminar</a><br/>
                 Tuesdays (sometimes Mondays) at 11 AM in Core 431</li>
 
               <li><a href="http://www.cs.rutgers.edu/~jca105/cs-colloquium/">CS Department Colloquium Series</a><br/>
