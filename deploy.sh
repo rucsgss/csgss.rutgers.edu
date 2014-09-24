@@ -10,5 +10,6 @@ rsync -avz -e ssh --exclude-from file-excludes.txt --delete --delete-excluded . 
 
 echo ""
 echo "***"
-echo "*** Note: you must now ssh to paul.rutgers.edu, run 'become csgss' followed by './deploy-website.sh'"
+echo "*** Note: you must now ssh to paul.rutgers.edu, run 'become csgss',"
+echo "*** followed by './deploy-website.sh'"
 echo "***"
