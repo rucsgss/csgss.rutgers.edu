@@ -13,11 +13,9 @@
 
           <div class="newsitem">
             <div>
-              <h2>September Lunch Social</h2>
+              <h2>September Lunch Social / Orientation</h2>
               <h3>Thurs., Sept. 18, 2014</h3>
-			  <p>Join your fellow CS graduate students for lunch and socializing. A great opportunity
-			    to get out of your lab or office and see how the rest of the department is doing.  Don't
-			    forget to bring your appetite!</p>
+			  <p>Welcome all new CS graduate students! Come meet the new and old grad students at our first lunch social / CSGSS orientation! We'll introduce the new CSGSS officers and announce a few of the things we have planned for the coming year.</p>
 			  <p>12:00 &ndash; 1:30 PM in Core 301</p>
             </div>
             <div class="clear"></div>
