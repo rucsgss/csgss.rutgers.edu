@@ -13,6 +13,18 @@
 
           <div class="newsitem">
             <div>
+              <h2>Coffee hours commence!</h2>
+              <h3>Mon., Sept. 29, 2014</h3>
+			  <p>We're excited to announce coffee hours at 3 PM on Mondays and Wednesdays this semester! Come by, hang out, and recharge!</p>
+			  <p>Coffee hours on Mondays will be held in CBIM.</p>
+			  <p>Coffee hours on Wednesdays will be held in the 3rd floor lobby of Core.</p>
+			  <p>3:00 &ndash; 4:00 PM</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
+            <div>
               <h2>September Lunch Social / Orientation</h2>
               <h3>Thurs., Sept. 18, 2014</h3>
 			  <p>Welcome all new CS graduate students! Come meet the new and old grad students at our first lunch social / CSGSS orientation! We'll introduce the new CSGSS officers and announce a few of the things we have planned for the coming year.</p>
