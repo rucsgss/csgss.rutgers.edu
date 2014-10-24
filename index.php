@@ -13,6 +13,18 @@
 
           <div class="newsitem">
             <div>
+              <h2>October Lunch Social</h2>
+              <h3>Thurs., Oct. 23, 2014</h3>
+			  <p>Join your fellow CS graduate students for lunch and socializing. A great opportunity
+			    to get out of your lab or office and see how the rest of the department is doing.  Don't
+			    forget to bring your appetite!</p>
+			  <p>12:00 &ndash; 1:30 PM in Core 301</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
+            <div>
               <h2>Coffee hours commence!</h2>
               <h3>Mon., Sept. 29, 2014</h3>
 			  <p>We're excited to announce coffee hours at 3 PM on Mondays and Wednesdays this semester! Come by, hang out, and recharge!</p>
