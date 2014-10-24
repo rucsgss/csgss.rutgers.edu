@@ -8,11 +8,20 @@
     <div class="container">
       <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/header.html") ?>
       <div class="page_content">
+        <h1>Orientation</h1>
+        <p>In the beginning of the fall semester, CSGSS works with the CS department to set up an orientation for incoming graduate students. During the orientation, the CSGSS officers introduce themselves, welcome new students, and announce some of the upcoming events for the year.</p>
+
         <h1>General Meetings (Social Lunches)</h1>
-        <p>Every semester, CSGSS tries to schedule a few lunch meetings where graduate students, faculty, and staff can get together and exchange ideas in a less academic environment. These meetings are also where general votes are taken (such as to elect a new executive board), or general announcements are given from CSGSS, administration, or staff.</p>
+        <p>Every semester, CSGSS schedules a few lunch meetings where graduate students, faculty, and staff can get together and exchange ideas in a less academic environment. These meetings are also where general votes are taken (such as to elect a new executive board), or general announcements are given from CSGSS, administration, or staff.</p>
+
+        <h1>Coffee Hours</h1>
+        <p>CSGSS sponsors coffee hours, where students can enjoy some free coffee and refreshments, in the afternoon on certain days of the week. Locations vary between CBIM and Core to try to accomodate as many of the CS graduate students as possible.</p>
 
         <h1>Graduate Student Mentors</h1>
         <p>In the spring, CSGSS seeks out current graduate students to act as student mentors for incoming students. The goal is to help new students, especially those arriving from foreign countries, become accustomed to the CS department, Rutgers University, and the surrounding area. If you are interested in becoming a student mentor, please contact a current CSGSS officer.</p>
+
+        <h1>Spring Commencement</h1>
+        <p>At the end of the academic year, CSGSS works with the CS department to put on an end-of-the-year lunch, to celebrate the graduate students who have graduated that year, and to award the CSGSS Award for Excellence in Teaching to its recipient.</p>
 
         <h1>Award for Excellence in Teaching</h1>
         <p>The 1988-89 Executive Board of the Computer Science Graduate Student Society (CSGSS) voted to establish an annual award for excellence in teaching. Every year the award is presented to a Rutgers DCS faculty member, based upon a plurality vote of the members of CSGSS.</p>
