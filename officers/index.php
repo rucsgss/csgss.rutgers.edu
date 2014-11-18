@@ -25,9 +25,9 @@
             </div>
           </div>
           <div class="officer">
-            <div class="headshot"><a href="http://paul.rutgers.edu/~prachm/"><img src="/images/treasurer.png" height=150 width=150 alt="Photo of CSGSS treasurer"/></a></div>
+            <div class="headshot"><a href="mailto:as2249@scarletmail.rutgers.edu"><img src="/images/treasurer.png" height=150 width=150 alt="Photo of CSGSS treasurer"/></a></div>
             <div class="description">
-              <p><a href="http://paul.rutgers.edu/~prachm/">Pracheeti Maheshwari</a></p>
+              <p><a href="mailto:as2249@scarletmail.rutgers.edu">Abhijit Shanbhag</a></p>
               <p>Treasurer</p>
             </div>
           </div>
