@@ -6,10 +6,41 @@ USERNAME="jca105"
 SERVER="pacman.cs.rutgers.edu"
 SERVERPATH="~/csgss"
 
-rsync -avz -e ssh --exclude-from file-excludes.txt --delete --delete-excluded . ${USERNAME}@${SERVER}:${SERVERPATH}
+RFLAGS="-avz -e ssh --exclude-from file-excludes.txt --delete --delete-excluded"
 
-echo ""
-echo "***"
-echo "*** Note: you must now ssh to paul.rutgers.edu, run 'become csgss',"
-echo "*** followed by './deploy-website.sh'"
-echo "***"
+deploy() {
+    rsync ${RFLAGS} . ${USERNAME}@${SERVER}:${SERVERPATH}
+
+    echo ""
+    echo "*** You must now run the following on paul.rutgers.edu:"
+    echo "***"
+    echo "***     become csgss"
+    echo "***     ./deploy-website.sh"
+    echo "***"
+}
+
+usage()
+{
+    cat << EOF
+Usage: $0 [options]
+
+OPTIONS:
+    -h      Show this message
+EOF
+}
+
+while getopts “h” OPTION
+do
+    case $OPTION in
+        h)
+            usage
+            exit
+            ;;
+        ?)
+            usage
+            exit 1
+            ;;
+    esac
+done
+
+deploy
