@@ -13,6 +13,22 @@
 
           <div class="newsitem">
             <div>
+              <h2>First-years Checkpoint Meeting</h2>
+              <h3>Fri., Dec. 5, 2014</h3>
+			  <p>Figuring out grad school and all the details of your program can be challenging.
+                This meeting is a chance to meet with senior grad students, as well as the Graduate
+                Director and MS Program Coordinator, to get answers to any questions you might have
+                about classes, research, teaching, program requirements, or grad student life in
+                general.</p>
+              <p>First-year students are encouraged to attend, but all years are welcome to come
+                and share your experience!</p>
+			  <p>12:30 &ndash; 2:00 PM in Core 301</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
+            <div>
               <h2>November Lunch Social</h2>
               <h3>Thurs., Nov. 13, 2014</h3>
 			  <p>Join your fellow CS graduate students for lunch and socializing. A great opportunity
