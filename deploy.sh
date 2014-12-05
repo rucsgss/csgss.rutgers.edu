@@ -12,6 +12,7 @@ deploy() {
     rsync ${RFLAGS} . ${USERNAME}@${SERVER}:${SERVERPATH}
 
     echo ""
+    echo "***"
     echo "*** You must now run the following on paul.rutgers.edu:"
     echo "***"
     echo "***     become csgss"
