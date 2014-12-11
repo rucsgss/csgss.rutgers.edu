@@ -12,6 +12,46 @@
         <div class="news">
 
           <div class="newsitem">
+            <div class="thumbnail"><img src="/images/google-phd-mixer.png" height=299 width=400 alt="Google PhD mixer" class="thumbnail"/></div>
+            <div>
+              <h2>Google PhD Mixer</h2>
+              <h3>Thu., Dec 11, 2014</h3>
+              <p>There are many opportunities for PhDs at Google to
+              make immediate impact and work on real problems.  Google
+              strives to provide an environment of on-going learning
+              where advanced technical development and innovation are
+              the priorities.  Our engineers are also encouraged to
+              make contributions to the computer science community
+              through a variety of professional development
+              activities, such as attending conferences, publishing
+              papers, open source, and more.</p>
+
+              <p>To learn more, we invite you to join us at our PhD
+              Info Session this Thursday, December 11th @ 5:30pm!
+              Come grab a bite, learn more about our PhD-specific
+              opportunities and hear from Rutgers PhD alumni about
+              their work!</p>
+
+              <p>Go <a href="https://docs.google.com/forms/d/152GZmfLi4FPpeDFwxJzAYp3oXv77fHcRNj-ohEhym1I/viewform">here</a> to RSVP for the event!</p>
+
+              <p>5:30 PM &ndash; 7:30 PM in Core 301</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
+            <div>
+              <h2>December Lunch Social</h2>
+              <h3>Thurs., Dec. 11, 2014</h3>
+			  <p>Join your fellow CS graduate students for lunch and socializing. A great opportunity
+			    to get out of your lab or office and see how the rest of the department is doing.  Don't
+			    forget to bring your appetite!</p>
+			  <p>12:30 &ndash; 2:00 PM in Core 301</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
             <div>
               <h2>First-years Checkpoint Meeting</h2>
               <h3>Fri., Dec. 5, 2014</h3>
