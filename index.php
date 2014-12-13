@@ -12,9 +12,9 @@
         <div class="news">
 
           <div class="newsitem">
-            <div class="thumbnail"><img src="/images/google-phd-mixer.png" height=299 width=400 alt="Google PhD mixer" class="thumbnail"/></div>
+            <div class="thumbnail"><img src="/images/google-tech-talk.png" height=299 width=400 alt="Google PhD tech talk" class="thumbnail"/></div>
             <div>
-              <h2>Google PhD Mixer</h2>
+              <h2>Google PhD Info Session</h2>
               <h3>Thu., Dec 11, 2014</h3>
               <p>There are many opportunities for PhDs at Google to
               make immediate impact and work on real problems.  Google
