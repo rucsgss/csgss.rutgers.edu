@@ -14,10 +14,10 @@
           <div><p class="heading">Reading groups</p></div>
           <div class="content">
             <ul>
-              <li><a href="http://paul.rutgers.edu/~hdn11/readinggroup/">Systems Reading Group</a><br/>
-                Mondays at 10 AM in Core B</li>
+              <li><a href="http://paul.rutgers.edu/~az203/sytem_reading_group.html">Systems Reading Group</a><br/>
+                Thursdays at 6:30 PM in Hill 482</li>
 
-              <li><a href="http://www.math.rutgers.edu/~tnaumovi/seminar.html">Theory of Computing Reading Seminar</a><br/>
+              <li><a href="http://www.math.rutgers.edu/~st509/2015seminar.html">Theory of Computing Reading Seminar</a><br/>
                 Wednesdays at 9:30 AM in Core 433</li>
 
               <li>CS Theory-Grad Reading Group<br />
@@ -32,17 +32,11 @@
               <li><a href="http://dimacs.rutgers.edu/Seminars/interseminars14-15.html">DIMACS/CCICADA Interdisciplinary Seminar</a><br/>
                 Tuesdays (sometimes Mondays) at 11 AM in Core 431</li>
 
-              <li><a href="http://www.cs.rutgers.edu/~jca105/cs-colloquium/">CS Department Colloquium Series</a><br/>
-                Tuesdays at 11 AM in Core 101</li>
-
               <li><a href="http://www.math.rutgers.edu/seminars/allseminars.php?sem_name=Discrete%20Math">Discrete Math Seminar</a><br/>
-                Tuesdays at 2 PM in Hill 525</li>
+                Mondays at 11 AM in Core 431</li>
 
-              <li><a href="http://www.math.rutgers.edu/~sk1233/theory-seminar/F14/">Rutgers/DIMACS Theory of Computing Seminar</a><br/>
+              <li><a href="http://www.math.rutgers.edu/~sk1233/theory-seminar/S15/">Rutgers/DIMACS Theory of Computing Seminar</a><br/>
                 Wednesdays at 11 AM in Core 301</li>
-
-              <li><a href="http://www.stat.rutgers.edu/home/pingli/bigdata.html">Statistical Learning and Computation for Big Data Analysis</a><br/>
-                Thursdays at noon in Hill 552 (Lunch at 11:40 AM in Hill 502)</li>
 
               <li><a href="http://www.math.rutgers.edu/seminars/calendar.php">All math seminars</a></li>
               <li><a href="http://www.cs.rutgers.edu/news/colloquia/">All CS seminars</a></li>
