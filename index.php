@@ -12,6 +12,19 @@
         <div class="news">
 
           <div class="newsitem">
+            <div class="thumbnail"><img src="/images/openhatch.png" height=300 width=400 alt="OpenHatch logo" class="thumbnail"/></div>
+            <div>
+              <h2>Open Source Comes to Rutgers</h2>
+              <h3>Sat., Jan 31, 2015</h3>
+              <p><a href="http://openhatch.org/">OpenHatch.org</a> will be helping students get acquainted with and learn about open source:</p>
+              <p>"We'll teach you about open source licensing, collaboration tools, and how free software projects are organized. Then we'll help you make contributions to open source projects. And throughout, we'll feed you, get to know you, and talk with you about opportunities for students in open source."</p>
+			  <p><a href="http://rutgers.openhatch.org/">http://rutgers.openhatch.org/</a></p>
+			  <p>12:00 &ndash; 5:30 PM in the Cove in the BCC</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
             <div class="thumbnail"><img src="/images/google-tech-talk.png" height=299 width=400 alt="Google PhD tech talk" class="thumbnail"/></div>
             <div>
               <h2>Google PhD Info Session</h2>
