@@ -85,17 +85,7 @@ chmod 644 ~/public_html/index.html</code></pre>
 
           <div><div class="arrow"></div><p class="heading">Write your thesis in LaTeX</p></div>
           <div class="content">
-            <p>The following LaTeX style file is a version of the <a href="http://www.math.rutgers.edu/grad/phd_requirements/thesis.html">Department of Mathematics style file</a>, customized for students in the Department of Computer Science. It is based on the official university <a href="http://gsnb.rutgers.edu/style_guide.php3">style guide</a>.</p>
-            <ul>
-              <li><a href="thesis.tex">thesis.tex</a> &ndash; a barebones LaTeX file for your thesis.</li>
-              <li><a href="ruthesis.cls">ruthesis.cls</a> &ndash; a LaTeX style file for your thesis.</li>
-            </ul>
-            <p>To use this style file, download the files below, put them in a directory, and build using <code>pdflatex</code>:</p>
-            <div class="code">
-              <pre><code>mkdir ~/thesis
-mv ~/Downloads/thesis.tex ~/Downloads/ruthesis.cls ~/thesis
-cd ~/thesis
-pdflatex thesis</code></pre>
+            <p>See the <a href="http://github.com/rucsgss/thesis">Rutgers University Computer Science thesis template</a> on github for a LaTeX style file and thesis template.</p>
             </div>
           </div>
 
