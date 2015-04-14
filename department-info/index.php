@@ -14,15 +14,15 @@
           <div><p class="heading">Reading groups</p></div>
           <div class="content">
             <ul>
-              <li><a href="http://paul.rutgers.edu/~az203/sytem_reading_group.html">Systems Reading Group</a><br/>
-                Thursdays at 6:30 PM in Hill 482</li>
-
               <li><a href="http://www.math.rutgers.edu/~st509/2015seminar.html">Theory of Computing Reading Seminar</a><br/>
                 Wednesdays at 9:30 AM in Core 433</li>
 
               <li>CS Theory-Grad Reading Group<br />
                 (email <a href="mailto:cstheory-grad-on@dragon.rutgers.edu">cstheory-grad-on@dragon.rutgers.edu</a> to subscribe to the mailing list)<br/>
                 Wednesdays at 2 PM in Core A</li>
+
+              <li><a href="http://paul.rutgers.edu/~az203/sytem_reading_group.html">Systems Reading Group</a><br/>
+                Fridays at 4:00 PM in Core 305</li>
             </ul>
           </div>
 
