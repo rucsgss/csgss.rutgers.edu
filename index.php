@@ -12,6 +12,17 @@
         <div class="news">
 
           <div class="newsitem">
+            <div>
+              <h2>Spring 2015 Calendar</h2>
+              <h3>Sun., Feb 1, 2015</h3>
+              <p>Lunch socials: Noon in Core 301 on 2/2, 2/23, and 4/6</p>
+              <p>Game nights: 5 pm in Core 301 on 2/7 and 4/4</p>
+              <p>Coffee hours: 2 pm Fridays in the Core 3rd floor lounge</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+          <div class="newsitem">
             <div class="thumbnail"><img src="/images/openhatch.png" height=300 width=400 alt="OpenHatch logo" class="thumbnail"/></div>
             <div>
               <h2>Open Source Comes to Rutgers</h2>
