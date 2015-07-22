@@ -23,6 +23,10 @@
 
               <li><a href="http://paul.rutgers.edu/~az203/sytem_reading_group.html">Systems Reading Group</a><br/>
                 Fridays at 4:00 PM in Core 305</li>
+
+              <li>Natural Language Processing (NLP) Reading Group</a><br/>
+                Topics: Language-Vision, Composition in Vector Semantics, Probabilistic Semantic Parsing<br/>
+                Day/time for Fall 2015 TBD</li>
             </ul>
           </div>
 
