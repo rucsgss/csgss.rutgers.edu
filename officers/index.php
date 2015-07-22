@@ -8,32 +8,48 @@
     <div class="container">
       <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/header.html") ?>
       <div class="page_content">
-        <h1>Officers for 2014 &ndash; 2015</h1>
+        <h1>Officers for 2015 &ndash; 2016</h1>
         <div class="current-officers">
           <div class="officer">
-            <div class="headshot"><a href="mailto:bcm84@cs.rutgers.edu"><img src="/images/president.png" height=150 width=150 alt="Photo of CSGSS president"/></a></div>
+            <div class="headshot"><a href="mailto:as2249@scarletmail.rutgers.edu"><img src="/images/president.png" height=150 width=150 alt="Photo of CSGSS president"/></a></div>
             <div class="description">
-              <p><a href="mailto:bcm84@cs.rutgers.edu">Brian McMahan</a></p>
+              <p><a href="mailto:as2249@scarletmail.rutgers.edu">Abhijit Shanbhag</a></p>
               <p>President</p>
             </div>
           </div>
           <div class="officer">
-            <div class="headshot"><a href="http://www.cs.rutgers.edu/~jca105/"><img src="/images/vice-president.png" height=150 width=150 alt="Photo of CSGSS vice president"/></a></div>
+            <div class="headshot"><a href="http://paul.rutgers.edu/~gb370/"><img src="/images/vice-president.png" height=150 width=150 alt="Photo of CSGSS vice president"/></a></div>
             <div class="description">
-              <p><a href="http://www.cs.rutgers.edu/~jca105/">Jeff Ames</a></p>
+              <p><a href="http://paul.rutgers.edu/~gb370/">Guhan Balasubramanian</a></p>
               <p>Vice President</p>
             </div>
           </div>
           <div class="officer">
-            <div class="headshot"><a href="mailto:as2249@scarletmail.rutgers.edu"><img src="/images/treasurer.png" height=150 width=150 alt="Photo of CSGSS treasurer"/></a></div>
+            <div class="headshot"><a href="mailto:ar1166@scarletmail.rutgers.edu"><img src="/images/treasurer.png" height=150 width=150 alt="Photo of CSGSS treasurer"/></a></div>
             <div class="description">
-              <p><a href="mailto:as2249@scarletmail.rutgers.edu">Abhijit Shanbhag</a></p>
+              <p><a href="mailto:ar1166@scarletmail.rutgers.edu">Abhishek Kataria</a></p>
               <p>Treasurer</p>
+            </div>
+          </div>
+          <div class="officer">
+            <div class="headshot"><a href="mailto:vl210@cs.rutgers.edu"><img src="/images/secretary.png" height=150 width=150 alt="Photo of CSGSS secretary"/></a></div>
+            <div class="description">
+              <p><a href="mailto:vl210@cs.rutgers.edu">Viraj Lad</a></p>
+              <p>Secretary</p>
             </div>
           </div>
         </div>
         <div class="previous-officers">
           <h1>Previous Officers</h1>
+
+          <div class="year">
+            <h2>2014 &ndash; 2015</h2>
+            <ul>
+              <li>President: Brian McMahan</li>
+              <li>Vice President: Jeff Ames</li>
+              <li>Treasurer: Abhijit Shanbhag</li>
+            </ul>
+          </div>
 
           <div class="year">
             <h2>2013 &ndash; 2014</h2>
