@@ -42,7 +42,7 @@
           <li>2003: Barbara G. Ryder</li>
           <li>2002: Thu D. Nguyen</li>
           <li>2001: Vasek Chvatal</li>
-          <li>1997: Gerard Richter</li>
+          <li>1998: Gerard Richter</li>
           <li>1997: Miles Murdocca</li>
           <li>1996: L. Khachiyan</li>
           <li>1995: Badri Nath</li>
