@@ -29,6 +29,7 @@
 
         <h2>Recipients</h2>
         <ul>
+          <li>2015: Kostas Bekris</li>
           <li>2014: Shubhangi Saraf</li>
           <li>2013: Swastik Kopparty</li>
           <li>2012: Martin Farach-Colton</li>
