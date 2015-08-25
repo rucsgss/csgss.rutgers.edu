@@ -32,7 +32,7 @@
             </div>
           </div>
           <div class="officer">
-            <div class="headshot"><a href="mailto:vl210@cs.rutgers.edu"><img src="/images/secretary.png" height=150 width=150 alt="Photo of CSGSS secretary"/></a></div>
+            <div class="headshot"><a href="mailto:vl210@cs.rutgers.edu"><img src="/images/blank-profile.png" height=150 width=150 alt="Photo of CSGSS secretary"/></a></div>
             <div class="description">
               <p><a href="mailto:vl210@cs.rutgers.edu">Viraj Lad</a></p>
               <p>Secretary</p>
