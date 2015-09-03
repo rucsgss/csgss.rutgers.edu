@@ -44,7 +44,7 @@
           <li>2001: Vasek Chvatal</li>
           <li>1998: Gerard Richter</li>
           <li>1997: Miles Murdocca</li>
-          <li>1996: L. Khachiyan</li>
+          <li>1996: Leonid Khachiyan</li>
           <li>1995: Badri Nath</li>
           <li>1994: Haym Hirsh</li>
           <li>1993: Vasek Chvatal</li>
