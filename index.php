@@ -27,7 +27,7 @@
 
         </div>
 
-        <p>For older news items, check out the <a href="/news-archive">news archive</a>.</p>
+        <p>For older news, check out the <a href="/news-archive">news archive</a>.</p>
 
       </div>
       <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/footer.html") ?>
