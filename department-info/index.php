@@ -21,12 +21,8 @@
                 (email <a href="mailto:cstheory-grad-on@dragon.rutgers.edu">cstheory-grad-on@dragon.rutgers.edu</a> to subscribe to the mailing list)<br/>
                 Wednesdays at 2 PM in Core A</li>
 
-              <li><a href="http://paul.rutgers.edu/~az203/sytem_reading_group.html">Systems Reading Group</a><br/>
-                Fridays at 4:00 PM in Core 305</li>
-
-              <li>Natural Language Processing (NLP) Reading Group</a><br/>
-                Topics: Language-Vision, Composition in Vector Semantics, Probabilistic Semantic Parsing<br/>
-                Day/time for Fall 2015 TBD</li>
+              <li><a href="http://ada.cs.rutgers.edu/talks.html">Machine learning reading group</a><br/>
+                Mondays at 5:00 PM in CBIM</li>
             </ul>
           </div>
 
@@ -39,7 +35,7 @@
               <li><a href="http://www.math.rutgers.edu/seminars/allseminars.php?sem_name=Discrete%20Math">Discrete Math Seminar</a><br/>
                 Mondays at 11 AM in Core 431</li>
 
-              <li><a href="http://www.math.rutgers.edu/~sk1233/theory-seminar/S15/">Rutgers/DIMACS Theory of Computing Seminar</a><br/>
+              <li><a href="https://dragon.rutgers.edu/~mk1029/theoryseminarF15.html">Rutgers/DIMACS Theory of Computing Seminar</a><br/>
                 Wednesdays at 11 AM in Core 301</li>
 
               <li><a href="http://www.math.rutgers.edu/seminars/calendar.php">All math seminars</a></li>
