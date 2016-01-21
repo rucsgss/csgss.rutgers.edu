@@ -3,7 +3,7 @@
 set -e
 
 USERNAME="jca105"
-SERVER="pacman.cs.rutgers.edu"
+SERVER="pong.cs.rutgers.edu"
 SERVERPATH="~/csgss"
 
 RFLAGS="-avz -e ssh --exclude-from file-excludes.txt --delete --delete-excluded"
