@@ -2,12 +2,30 @@
 <html>
   <head>
     <title>CSGSS Resources</title>
-    <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/head.html") ?>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="/style.css">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <script src="/scripts/jquery-1.8.1.min.js"></script>
+    <script src="/scripts/navbar-highlight.js"></script>
     <script src="/scripts/expand-collapse.js"></script>
   </head>
   <body>
     <div class="container">
-      <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/header.html") ?>
+      <div class="header">
+        <p>Computer Science Graduate Student Society</p>
+        <a href="/"><img src="/images/sas_banner_black.png" alt="CSGSS banner"/></a>
+      </div>
+      <div class="navigation_bar">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/officers/">Officers</a></li>
+          <li><a href="/activities/">Activities</a></li>
+          <li><a href="/department-info/">Department Info</a></li>
+          <li><a href="/facilities/">Facilities</a></li>
+          <li><a href="/resources/">Resources</a></li>
+        </ul>
+      </div>
       <div class="page_content">
         <div class="resources">
           <h1>Resources</h1>
@@ -15,37 +33,37 @@
           <div><div class="arrow"></div><p class="heading">Add CS and CSGSS events to your calendar</p></div>
           <div class="content">
             <div class="url-table">
-            <h4>Google calendar</h4>
-            <table>
-              <tr>
-                <td>CS department:</td>
-                <td><code>rutgers.cs@gmail.com</code></td>
-              </tr>
-              <tr>
-                <td>CSGSS:</td>
-                <td><code>rutgers.csgss@gmail.com</code></td>
-              </tr>
-              <tr>
-                <td>Rutgers academic calendar:</td>
-                <td><code>rutgers.academic@gmail.com</code></td>
-              </tr>
-            </table>
+              <h4>Google calendar</h4>
+              <table>
+                <tr>
+                  <td>CS department:</td>
+                  <td><code>rutgers.cs@gmail.com</code></td>
+                </tr>
+                <tr>
+                  <td>CSGSS:</td>
+                  <td><code>rutgers.csgss@gmail.com</code></td>
+                </tr>
+                <tr>
+                  <td>Rutgers academic calendar:</td>
+                  <td><code>rutgers.academic@gmail.com</code></td>
+                </tr>
+              </table>
 
-            <h4>Other calendar applications (iCalendar format)</h4>
-            <table>
-              <tr>
-                <td>CS department:</td>
-                <td><code>https://www.google.com/calendar/ical/rutgers.cs%40gmail.com/public/basic.ics</code></td>
-              </tr>
-              <tr>
-                <td>CSGSS:</td>
-                <td><code>https://www.google.com/calendar/ical/rutgers.csgss%40gmail.com/public/basic.ics</code></td>
-              </tr>
-              <tr>
-                <td>Rutgers academic calendar:</td>
-                <td><code>https://www.google.com/calendar/ical/rutgers.academic%40gmail.com/public/basic.ics</code></td>
-              </tr>
-            </table>
+              <h4>Other calendar applications (iCalendar format)</h4>
+              <table>
+                <tr>
+                  <td>CS department:</td>
+                  <td><code>https://www.google.com/calendar/ical/rutgers.cs%40gmail.com/public/basic.ics</code></td>
+                </tr>
+                <tr>
+                  <td>CSGSS:</td>
+                  <td><code>https://www.google.com/calendar/ical/rutgers.csgss%40gmail.com/public/basic.ics</code></td>
+                </tr>
+                <tr>
+                  <td>Rutgers academic calendar:</td>
+                  <td><code>https://www.google.com/calendar/ical/rutgers.academic%40gmail.com/public/basic.ics</code></td>
+                </tr>
+              </table>
             </div>
 
             <p>If you use <a href="http://www.google.com/calendar">Google Calendar</a>,
@@ -68,10 +86,10 @@
             <p>For example,</p>
             <div class="code">
               <pre><code>ssh USERNAME@galaxian.cs.rutgers.edu
-mkdir -p ~/public_html
-echo '&lt;h1&gt;Hello, world!&lt;/h1&gt;' &gt; ~/public_html/index.html
-chmod 755 ~/public_html
-chmod 644 ~/public_html/index.html</code></pre>
+                  mkdir -p ~/public_html
+                  echo '&lt;h1&gt;Hello, world!&lt;/h1&gt;' &gt; ~/public_html/index.html
+                  chmod 755 ~/public_html
+                  chmod 644 ~/public_html/index.html</code></pre>
             </div>
             <p>Note that at present, no server-side scripting (PHP, etc.) is enabled.</p>
           </div>
@@ -86,12 +104,10 @@ chmod 644 ~/public_html/index.html</code></pre>
           <div><div class="arrow"></div><p class="heading">Write your thesis in LaTeX</p></div>
           <div class="content">
             <p>See the <a href="http://github.com/rucsgss/thesis">Rutgers University Computer Science thesis template</a> on github for a LaTeX style file and thesis template.</p>
-            </div>
           </div>
-
         </div>
       </div>
-      <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/footer.html") ?>
+      <div class="footer"></div>
     </div>
   </body>
 </html>

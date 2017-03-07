@@ -2,11 +2,29 @@
 <html>
   <head>
     <title>CSGSS Department Info</title>
-    <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/head.html") ?>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="/style.css">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <script src="/scripts/jquery-1.8.1.min.js"></script>
+    <script src="/scripts/navbar-highlight.js"></script>
   </head>
   <body>
     <div class="container">
-      <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/header.html") ?>
+      <div class="header">
+        <p>Computer Science Graduate Student Society</p>
+        <a href="/"><img src="/images/sas_banner_black.png" alt="CSGSS banner"/></a>
+      </div>
+      <div class="navigation_bar">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/officers/">Officers</a></li>
+          <li><a href="/activities/">Activities</a></li>
+          <li><a href="/department-info/">Department Info</a></li>
+          <li><a href="/facilities/">Facilities</a></li>
+          <li><a href="/resources/">Resources</a></li>
+        </ul>
+      </div>
       <div class="page_content">
         <div class="resources">
           <h1>Department Info</h1>
@@ -33,9 +51,9 @@
                 Tuesdays (sometimes Mondays) at 11 AM in Core 431</li>
 
               <li><a href="http://www.math.rutgers.edu/seminars/allseminars.php?sem_name=Discrete%20Math">Discrete Math Seminar</a><br/>
-                Mondays at 11 AM in Core 431</li>
+                Mondays at 2 PM in Hill 705</li>
 
-              <li><a href="https://dragon.rutgers.edu/~mk1029/theoryseminarF15.html">Rutgers/DIMACS Theory of Computing Seminar</a><br/>
+              <li><a href="http://www.math.rutgers.edu/~sk1233/theory-seminar/F16/">Rutgers/DIMACS Theory of Computing Seminar</a><br/>
                 Wednesdays at 11 AM in Core 301</li>
 
               <li><a href="http://www.math.rutgers.edu/seminars/calendar.php">All math seminars</a></li>
@@ -45,7 +63,7 @@
 
         </div>
       </div>
-      <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/footer.html") ?>
+      <div class="footer"></div>
     </div>
   </body>
 </html>

@@ -2,11 +2,29 @@
 <html>
   <head>
     <title>About CSGSS</title>
-    <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/head.html") ?>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="/style.css">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <script src="/scripts/jquery-1.8.1.min.js"></script>
+    <script src="/scripts/navbar-highlight.js"></script>
   </head>
   <body>
     <div class="container">
-      <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/header.html") ?>
+      <div class="header">
+        <p>Computer Science Graduate Student Society</p>
+        <a href="/"><img src="/images/sas_banner_black.png" alt="CSGSS banner"/></a>
+      </div>
+      <div class="navigation_bar">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/officers/">Officers</a></li>
+          <li><a href="/activities/">Activities</a></li>
+          <li><a href="/department-info/">Department Info</a></li>
+          <li><a href="/facilities/">Facilities</a></li>
+          <li><a href="/resources/">Resources</a></li>
+        </ul>
+      </div>
       <div class="page_content">
         <h1>About CSGSS</h1>
         <p>The Computer Science Graduate Student Society (CSGSS) is an organization of graduate students whose goals are:</p>
@@ -169,7 +187,7 @@
             to the Executive Committee.</li>
         </ul>
       </div>
-      <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/footer.html") ?>
+      <div class="footer"></div>
     </div>
   </body>
 </html>

@@ -2,11 +2,29 @@
 <html>
   <head>
     <title>CSGSS Activities</title>
-    <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/head.html") ?>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="/style.css">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <script src="/scripts/jquery-1.8.1.min.js"></script>
+    <script src="/scripts/navbar-highlight.js"></script>
   </head>
   <body>
     <div class="container">
-      <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/header.html") ?>
+      <div class="header">
+        <p>Computer Science Graduate Student Society</p>
+        <a href="/"><img src="/images/sas_banner_black.png" alt="CSGSS banner"/></a>
+      </div>
+      <div class="navigation_bar">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/officers/">Officers</a></li>
+          <li><a href="/activities/">Activities</a></li>
+          <li><a href="/department-info/">Department Info</a></li>
+          <li><a href="/facilities/">Facilities</a></li>
+          <li><a href="/resources/">Resources</a></li>
+        </ul>
+      </div>
       <div class="page_content">
         <h1>Orientation</h1>
         <p>In the beginning of the fall semester, CSGSS works with the CS department to set up an orientation for incoming graduate students. During the orientation, the CSGSS officers introduce themselves, welcome new students, and announce some of the upcoming events for the year.</p>
@@ -55,7 +73,7 @@
         </ul>
 
       </div>
-      <?php $root = realpath($_SERVER["DOCUMENT_ROOT"]); include("$root/includes/footer.html") ?>
+      <div class="footer"></div>
     </div>
   </body>
 </html>
