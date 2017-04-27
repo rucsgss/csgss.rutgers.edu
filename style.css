@@ -258,7 +258,7 @@ div.content {
 div.arrow {
     width: 16px;
     height: 16px;
-    background-image: url(/images/triangle-right.png);
+    background-image: url(images/triangle-right.png);
     background-repeat: no-repeat;
     background-size: contain;
     float: left;
@@ -268,7 +268,7 @@ div.arrow {
 div.expanded {
     width: 16px;
     height: 16px;
-    background-image: url(/images/triangle-down.png);
+    background-image: url(images/triangle-down.png);
     background-repeat: no-repeat;
     background-size: contain;
     float: left;
